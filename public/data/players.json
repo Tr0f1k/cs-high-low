@@ -1,0 +1,457 @@
+[
+    {
+        "tag": "apEX",
+        "name": "Dan Madesclaire",
+        "country": "Denmark",
+        "majors": 22,
+        "image": "/images/players/apEX.webp"
+    },
+    {
+        "tag": "ropz",
+        "name": "Robin Kool",
+        "country": "Estonia",
+        "majors": 13,
+        "image": "/images/players/ropz.webp"
+    },
+    {
+        "tag": "ZywOo",
+        "name": "Mathieu Herbaut",
+        "country": "France",
+        "majors": 11,
+        "image": "/images/players/ZywOo.webp"
+    },
+    {
+        "tag": "flameZ",
+        "name": "Shahar Shushan",
+        "country": "Israel",
+        "majors": 7,
+        "image": "/images/players/flameZ.webp"
+    },
+    {
+        "tag": "mezii",
+        "name": "William Merriman",
+        "country": "United Kingdom",
+        "majors": 7,
+        "image": "/images/players/mezii.webp"
+    },
+    {
+        "tag": "Aleksib",
+        "name": "Aleksi Virolainen",
+        "country": "Finland",
+        "majors": 10,
+        "image": "/images/players/Aleksib.webp"
+    },
+    {
+        "tag": "iM",
+        "name": "Mihai Ivan",
+        "country": "Romania",
+        "majors": 7,
+        "image": "/images/players/iM.webp"
+    },
+    {
+        "tag": "b1t",
+        "name": "Valeriy Vakhovskiy",
+        "country": "Ukraine",
+        "majors": 9,
+        "image": "/images/players/b1t.webp"
+    },
+    {
+        "tag": "w0nderful",
+        "name": "Ihor Zhdanov",
+        "country": "Ukraine",
+        "majors": 6,
+        "image": "/images/players/w0nderful.webp"
+    },
+    {
+        "tag": "makazze",
+        "name": "Drin Shaqiri",
+        "country": "Kosovo",
+        "majors": 2,
+        "image": "/images/players/makazze.webp"
+    },
+    {
+        "tag": "sh1ro",
+        "name": "Dmitry Sokolov",
+        "country": "Russia",
+        "majors": 8,
+        "image": "/images/players/sh1ro.webp"
+    },
+    {
+        "tag": "magixx",
+        "name": "Boris Vorobiev",
+        "country": "Russia",
+        "majors": 7,
+        "image": "/images/players/magixx.webp"
+    },
+    {
+        "tag": "tN1R",
+        "name": "Andrey Tatarinovich",
+        "country": "Belarus",
+        "majors": 3,
+        "image": "/images/players/tN1R.webp"
+    },
+    {
+        "tag": "zont1x",
+        "name": "Myroslav Plakhotia",
+        "country": "Ukraine",
+        "majors": 4,
+        "image": "/images/players/zont1x.webp"
+    },
+    {
+        "tag": "donk",
+        "name": "Danil Kryshkovets",
+        "country": "Russia",
+        "majors": 5,
+        "image": "/images/players/donk.webp"
+    },
+    {
+        "tag": "karrigan",
+        "name": "Finn Andersen",
+        "country": "Denmark",
+        "majors": 22,
+        "image": "/images/players/karrigan.webp"
+    },
+    {
+        "tag": "NiKo",
+        "name": "Nikola Kovač",
+        "country": "Bosnia and Herzegovina",
+        "majors": 17,
+        "image": "/images/players/NiKo.webp"
+    },
+    {
+        "tag": "TeSeS",
+        "name": "René Madsen",
+        "country": "Denmark",
+        "majors": 9,
+        "image": "/images/players/TeSeS.webp"
+    },
+    {
+        "tag": "m0NESY",
+        "name": "Ilya Osipov",
+        "country": "Russia",
+        "majors": 7,
+        "image": "/images/players/m0NESY.webp"
+    },
+    {
+        "tag": "kyousuke",
+        "name": "Maksim Lukin",
+        "country": "Russia",
+        "majors": 2,
+        "image": "/images/players/kyousuke.webp"
+    },
+    {
+        "tag": "FalleN",
+        "name": "Gabriel Toledo",
+        "country": "Brazil",
+        "majors": 19,
+        "image": "/images/players/FalleN.webp"
+    },
+    {
+        "tag": "yuurih",
+        "name": "Yuri Santos",
+        "country": "Brazil",
+        "majors": 11,
+        "image": "/images/players/yuurih.webp"
+    },
+    {
+        "tag": "YEKINDAR",
+        "name": "Mareks Gaļinskis",
+        "country": "Latvia",
+        "majors": 8,
+        "image": "/images/players/YEKINDAR.webp"
+    },
+    {
+        "tag": "KSCERATO",
+        "name": "Kaike Cerato",
+        "country": "Brazil",
+        "majors": 11,
+        "image": "/images/players/KSCERATO.webp"
+    },
+    {
+        "tag": "molodoy",
+        "name": "Danil Golubenko",
+        "country": "Kazakhstan",
+        "majors": 3,
+        "image": "/images/players/molodoy.webp"
+    },
+    {
+        "tag": "MAJ3R",
+        "name": "Engin Küpeli",
+        "country": "Türkiye",
+        "majors": 6,
+        "image": "/images/players/MAJ3R.webp"
+    },
+    {
+        "tag": "XANTARES",
+        "name": "Ismailcan Dörtkardeş",
+        "country": "Türkiye",
+        "majors": 8,
+        "image": "/images/players/XANTARES.webp"
+    },
+    {
+        "tag": "woxic",
+        "name": "Özgür Eker",
+        "country": "Türkiye",
+        "majors": 8,
+        "image": "/images/players/woxic.webp"
+    },
+    {
+        "tag": "soulfly",
+        "name": "Caner Kesici",
+        "country": "Türkiye",
+        "majors": 1,
+        "image": "/images/players/soulfly.webp"
+    },
+    {
+        "tag": "Wicadia",
+        "name": "Ali Haydar Yalçın",
+        "country": "Türkiye",
+        "majors": 4,
+        "image": "/images/players/Wicadia.webp"
+    },
+    {
+        "tag": "Brollan",
+        "name": "Ludvig Brolin",
+        "country": "Sweden",
+        "majors": 9,
+        "image": "/images/players/Brollan.webp"
+    },
+    {
+        "tag": "torzsi",
+        "name": "Ádám Torzsás",
+        "country": "Hungary",
+        "majors": 7,
+        "image": "/images/players/torzsi.webp"
+    },
+    {
+        "tag": "Spinx",
+        "name": "Lotan Giladi",
+        "country": "Israel",
+        "majors": 9,
+        "image": "/images/players/Spinx.webp"
+    },
+    {
+        "tag": "xertioN",
+        "name": "Dorian Berman",
+        "country": "Israel",
+        "majors": 7,
+        "image": "/images/players/xertioN.webp"
+    },
+    {
+        "tag": "xelex",
+        "name": "Adrian Vincze",
+        "country": "Hungary",
+        "majors": 1,
+        "image": "/images/players/xelex.webp"
+    },
+    {
+        "tag": "arT",
+        "name": "Andrei Piovezan",
+        "country": "Brazil",
+        "majors": 10,
+        "image": "/images/players/arT.webp"
+    },
+    {
+        "tag": "dumau",
+        "name": "Eduardo Wolkmer",
+        "country": "Brazil",
+        "majors": 6,
+        "image": "/images/players/dumau.webp"
+    },
+    {
+        "tag": "latto",
+        "name": "Bruno Rebelatto",
+        "country": "Brazil",
+        "majors": 6,
+        "image": "/images/players/latto.webp"
+    },
+    {
+        "tag": "n1ssim",
+        "name": "Vinicius Pereira",
+        "country": "Brazil",
+        "majors": 4,
+        "image": "/images/players/n1ssim.webp"
+    },
+    {
+        "tag": "saadzin",
+        "name": "Guilherme Pacheco",
+        "country": "Brazil",
+        "majors": 3,
+        "image": "/images/players/.webp"
+    },
+    {
+        "tag": "bLitz",
+        "name": "Garidmagnai Byambasuren",
+        "country": "Mongolia",
+        "majors": 8,
+        "image": "/images/players/bLitz.webp"
+    },
+    {
+        "tag": "Techno",
+        "name": "Sodbayar Munkhbold",
+        "country": "Mongolia",
+        "majors": 8,
+        "image": "/images/players/Techno.webp"
+    },
+    {
+        "tag": "mzinho",
+        "name": "Ayush Batbold",
+        "country": "Mongolia",
+        "majors": 5,
+        "image": "/images/players/mzinho.webp"
+    },
+    {
+        "tag": "910",
+        "name": "Usukhbayar Banzragch",
+        "country": "Mongolia",
+        "majors": 5,
+        "image": "/images/players/910.webp"
+    },
+    {
+        "tag": "cobrazera",
+        "name": "Anarbileg Uuganbayar",
+        "country": "Mongolia",
+        "majors": 2,
+        "image": "/images/players/cobrazera.webp"
+    },
+    {
+        "tag": "Jame",
+        "name": "Dzhami Ali",
+        "country": "Russia",
+        "majors": 10,
+        "image": "/images/players/Jame.webp"
+    },
+    {
+        "tag": "BELCHONOKK",
+        "name": "Andrey Yasinskiy",
+        "country": "Russia",
+        "majors": 2,
+        "image": "/images/players/BELCHONOKK.webp"
+    },
+    {
+        "tag": "xiELO",
+        "name": "Vladislav Lysov",
+        "country": "Russia",
+        "majors": 2,
+        "image": "/images/players/xiELO.webp"
+    },
+    {
+        "tag": "nota",
+        "name": "Emil Moskvitin",
+        "country": "Russia",
+        "majors": 2,
+        "image": "/images/players/nota.webp"
+    },
+    {
+        "tag": "zweih",
+        "name": "Ivan Gogin",
+        "country": "Russia",
+        "majors": 3,
+        "image": "/images/players/zweih.webp"
+    },
+    {
+        "tag": "huNter-",
+        "name": "Nemanja Kovač",
+        "country": "Bosnia and Herzegovina",
+        "majors": 9,
+        "image": "/images/players/huNter-.webp"
+    },
+    {
+        "tag": "NertZ",
+        "name": "Guy Iluz",
+        "country": "Israel",
+        "majors": 6,
+        "image": "/images/players/NertZ.webp"
+    },
+    {
+        "tag": "SunPayus",
+        "name": "Álvaro García",
+        "country": "Spain",
+        "majors": 6,
+        "image": "/images/players/SunPayus.webp"
+    },
+    {
+        "tag": "HeavyGod",
+        "name": "Nikita Martynenko",
+        "country": "Israel",
+        "majors": 4,
+        "image": "/images/players/HeavyGod.webp"
+    },
+    {
+        "tag": "MATYS",
+        "name": "Matúš Šimko",
+        "country": "Slovakia",
+        "majors": 3,
+        "image": "/images/players/MATYS.webp"
+    },
+    {
+        "tag": "dem0n",
+        "name": "Dmytro Myroshnychenko",
+        "country": "Ukraine",
+        "majors": 1,
+        "image": "/images/players/dem0n.webp"
+    },
+    {
+        "tag": "lauNX",
+        "name": "Laurențiu Țârlea",
+        "country": "Romania",
+        "majors": 2,
+        "image": "/images/players/lauNX.webp"
+    },
+    {
+        "tag": "Krabeni",
+        "name": "Aulon Fazlija",
+        "country": "Kosovo",
+        "majors": 1,
+        "image": "/images/players/Krabeni.webp"
+    },
+    {
+        "tag": "cmtry",
+        "name": "Nikita Samolotov",
+        "country": "Ukraine",
+        "majors": 1,
+        "image": "/images/players/cmtry.webp"
+    },
+    {
+        "tag": "dziugss",
+        "name": "Džiugas Steponavičius",
+        "country": "Lithuania",
+        "majors": 1,
+        "image": "/images/players/dziugss.webp"
+    },
+    {
+        "tag": "Boombl4",
+        "name": "Kirill Mikhailov",
+        "country": "Russia",
+        "majors": 10,
+        "image": "/images/players/Boombl4.webp"
+    },
+    {
+        "tag": "zorte",
+        "name": "Aleksandr Zagodyrenko",
+        "country": "Russia",
+        "majors": 4,
+        "image": "/images/players/zorte.webp"
+    },
+    {
+        "tag": "d1Ledez",
+        "name": "Daniil Kustov",
+        "country": "Russia",
+        "majors": 1,
+        "image": "/images/players/d1Ledez.webp"
+    },
+    {
+        "tag": "FL4MUS",
+        "name": "Timur Marev",
+        "country": "Russia",
+        "majors": 3,
+        "image": "/images/players/FL4MUS.webp"
+    },
+    {
+        "tag": "Magnojez",
+        "name": "Kirill Rodnov",
+        "country": "Russia",
+        "majors": 2,
+        "image": "/images/players/Magnojez.webp"
+    }
+]

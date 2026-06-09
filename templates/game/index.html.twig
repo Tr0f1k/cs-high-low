@@ -1,0 +1,38 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}CS Major Higher or Lower{% endblock %}
+
+{% block body %}
+    <div class="game-container">
+
+        <h1>CS Major Higher or Lower</h1>
+
+        <div class="score-container">
+            Score:
+            <span id="score">0</span>
+        </div>
+
+        <div class="cards">
+
+            <button class="player-card" id="playerA">
+                Loading...
+            </button>
+
+            <div class="versus">
+                VS
+            </div>
+
+            <button class="player-card" id="playerB">
+                Loading...
+            </button>
+
+        </div>
+
+        <div id="result" class="result"></div>
+
+        <button id="nextBtn" class="next-button" hidden>
+            Next Round
+        </button>
+
+    </div>
+{% endblock %}
