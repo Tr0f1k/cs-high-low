@@ -13,10 +13,11 @@ let selectedDifficulty = null;
 const difficultySelector = document.getElementById('difficultySelector');
 const gameArea = document.getElementById('gameArea');
 const cardsArea = document.getElementById('cardsArea');
+const scoreContainer = document.getElementById('scoreContainer');
 const playerAButton = document.getElementById('playerA');
 const playerBButton = document.getElementById('playerB');
+
 const scoreElement = document.getElementById('score');
-const resultElement = document.getElementById('result');
 
 const gameOverArea = document.getElementById('gameOverArea');
 const finalScoreElement = document.getElementById('finalScore');
@@ -34,10 +35,9 @@ async function loadPlayers() {
 
 function showDifficultyMenu() {
     selectedDifficulty = null;
-    cardsArea.hidden = true;
     activePlayers = [];
     usedPlayerTags = new Set();
-
+    scoreContainer.hidden = true;
     score = 0;
     answered = false;
     isFirstRound = true;
@@ -45,25 +45,30 @@ function showDifficultyMenu() {
     currentPlayer = null;
     challengerPlayer = null;
 
-    scoreElement.textContent = score;
-    resultElement.textContent = '';
-    gameOverArea.hidden = true;
+    scoreElement.textContent = '0';
 
     gameArea.hidden = true;
+    cardsArea.hidden = true;
+    gameOverArea.hidden = true;
+
     difficultySelector.hidden = false;
 
     difficultyButtons.forEach(button => {
         button.classList.remove('active');
     });
+
+    clearCardStates();
 }
 
 function startGame(difficulty) {
     selectedDifficulty = difficulty;
-    usedPlayerTags = new Set();
-    cardsArea.hidden = false;
+    scoreContainer.hidden = false;
     difficultySelector.hidden = true;
     gameArea.hidden = false;
+    cardsArea.hidden = false;
     gameOverArea.hidden = true;
+
+    usedPlayerTags = new Set();
 
     setActivePlayers();
 
@@ -72,7 +77,8 @@ function startGame(difficulty) {
     isFirstRound = true;
 
     scoreElement.textContent = score;
-    resultElement.textContent = '';
+
+    clearCardStates();
 
     currentPlayer = getRandomPlayer();
     challengerPlayer = getRandomPlayerExcept(currentPlayer);
@@ -88,8 +94,9 @@ function setActivePlayers() {
 
 function startNextRound() {
     answered = false;
-    resultElement.textContent = '';
-    cardsArea.hidden = false;
+
+    clearCardStates();
+
     challengerPlayer = getRandomPlayerExcept(currentPlayer);
 
     renderRound();
@@ -101,7 +108,7 @@ function renderRound() {
 }
 
 function renderPlayer(button, player, showMajors = false) {
-    const image = player.image ?? '/images/players/default.webp';
+    const image = player.image ?? './images/players/default.webp';
     const name = player.name ?? '';
     const country = player.country ?? '';
 
@@ -114,6 +121,11 @@ function renderPlayer(button, player, showMajors = false) {
     `;
 }
 
+function clearCardStates() {
+    playerAButton.classList.remove('correct', 'wrong');
+    playerBButton.classList.remove('correct', 'wrong');
+}
+
 function choosePlayer(selectedPlayer) {
     if (answered) {
         return;
@@ -121,11 +133,13 @@ function choosePlayer(selectedPlayer) {
 
     answered = true;
 
-    const otherPlayer = selectedPlayer === currentPlayer
-        ? challengerPlayer
-        : currentPlayer;
+    const otherPlayer =
+        selectedPlayer === currentPlayer
+            ? challengerPlayer
+            : currentPlayer;
 
-    const isCorrect = selectedPlayer.majors > otherPlayer.majors;
+    const isCorrect =
+        selectedPlayer.majors > otherPlayer.majors;
 
     renderPlayer(playerAButton, currentPlayer, true);
     renderPlayer(playerBButton, challengerPlayer, true);
@@ -133,12 +147,20 @@ function choosePlayer(selectedPlayer) {
     usedPlayerTags.add(currentPlayer.tag);
     usedPlayerTags.add(challengerPlayer.tag);
 
+    const currentPlayerIsHigher =
+        currentPlayer.majors > challengerPlayer.majors;
+
+    if (currentPlayerIsHigher) {
+        playerAButton.classList.add('correct');
+        playerBButton.classList.add('wrong');
+    } else {
+        playerBButton.classList.add('correct');
+        playerAButton.classList.add('wrong');
+    }
+
     if (isCorrect) {
         score++;
         scoreElement.textContent = score;
-
-        resultElement.textContent =
-            `Correct! ${selectedPlayer.tag}: ${selectedPlayer.majors} vs ${otherPlayer.tag}: ${otherPlayer.majors}`;
 
         if (isFirstRound) {
             currentPlayer = selectedPlayer;
@@ -151,19 +173,21 @@ function choosePlayer(selectedPlayer) {
             startNextRound();
         }, 2000);
     } else {
-        resultElement.textContent =
-            `Wrong! ${selectedPlayer.tag}: ${selectedPlayer.majors} vs ${otherPlayer.tag}: ${otherPlayer.majors}`;
-
         setTimeout(() => {
             cardsArea.hidden = true;
+            scoreContainer.hidden = true;
+
             finalScoreElement.textContent = score;
+
             gameOverArea.hidden = false;
         }, 2000);
     }
 }
 
 function getRandomPlayer() {
-    return activePlayers[Math.floor(Math.random() * activePlayers.length)];
+    return activePlayers[
+        Math.floor(Math.random() * activePlayers.length)
+    ];
 }
 
 function getRandomPlayerExcept(excludedPlayer) {
@@ -174,31 +198,49 @@ function getRandomPlayerExcept(excludedPlayer) {
     );
 
     if (availablePlayers.length === 0) {
-        resultElement.textContent = 'No more valid players available.';
-        finalScoreElement.textContent = score;
         cardsArea.hidden = true;
+        scoreContainer.hidden = true;
+
+        finalScoreElement.textContent = score;
+
         gameOverArea.hidden = false;
-        throw new Error('No available players left for this run.');
+
+        throw new Error(
+            'No available players left for this run.'
+        );
     }
 
-    return availablePlayers[Math.floor(Math.random() * availablePlayers.length)];
+    return availablePlayers[
+        Math.floor(Math.random() * availablePlayers.length)
+    ];
 }
 
 difficultyButtons.forEach(button => {
     button.addEventListener('click', () => {
-        const difficulty = Number(button.dataset.difficulty);
+        const difficulty =
+            Number(button.dataset.difficulty);
+
         button.classList.add('active');
+
         startGame(difficulty);
     });
 });
 
-playerAButton.addEventListener('click', () => choosePlayer(currentPlayer));
-playerBButton.addEventListener('click', () => choosePlayer(challengerPlayer));
+playerAButton.addEventListener('click', () =>
+    choosePlayer(currentPlayer)
+);
+
+playerBButton.addEventListener('click', () =>
+    choosePlayer(challengerPlayer)
+);
 
 playAgainButton.addEventListener('click', () => {
     startGame(selectedDifficulty);
 });
 
-chooseDifficultyButton.addEventListener('click', showDifficultyMenu);
+chooseDifficultyButton.addEventListener(
+    'click',
+    showDifficultyMenu
+);
 
 loadPlayers();

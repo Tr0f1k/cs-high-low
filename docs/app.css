@@ -154,6 +154,16 @@ body {
     font-size: 24px;
 }
 
+.player-card.correct {
+    border: 4px solid #00c853;
+    background-color: rgba(0, 200, 83, 0.25);
+}
+
+.player-card.wrong {
+    border: 4px solid #d50000;
+    background-color: rgba(213, 0, 0, 0.25);
+}
+
 [hidden] {
     display: none !important;
 }
