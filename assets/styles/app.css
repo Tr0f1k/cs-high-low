@@ -105,18 +105,134 @@ body {
     font-size: 18px;
 }
 
-@media (max-width: 900px) {
+.major-count {
+    margin-top: 16px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.game-area[hidden] {
+    display: none;
+}
+
+.difficulty-selector {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 30px;
+}
+
+.difficulty-btn {
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    background: #1f1f1f;
+    color: white;
+    cursor: pointer;
+}
+
+.difficulty-btn:hover {
+    border-color: white;
+}
+
+.difficulty-btn.active {
+    border-color: white;
+    font-weight: bold;
+}
+
+.game-over-area {
+    margin-top: 24px;
+}
+
+.game-over-area h2 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.game-over-area p {
+    font-size: 24px;
+}
+
+[hidden] {
+    display: none !important;
+}
+
+@media (max-width: 700px) {
+    .game-container {
+        padding: 16px 12px;
+    }
+
+    h1 {
+        font-size: 26px;
+        margin-bottom: 16px;
+    }
+
+    .score-container {
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
 
     .cards {
         flex-direction: column;
+        gap: 12px;
     }
 
     .player-card {
         width: 100%;
-        max-width: 350px;
+        max-width: 360px;
+        height: 260px;
+        padding: 16px;
+    }
+
+    .player-image {
+        width: 110px;
+        height: 110px;
+        margin-bottom: 10px;
+    }
+
+    .player-card strong {
+        font-size: 28px;
+        margin-bottom: 6px;
+    }
+
+    .player-card span {
+        font-size: 15px;
+    }
+
+    .major-count {
+        margin-top: 10px;
+        font-size: 22px;
     }
 
     .versus {
-        margin: 10px 0;
+        font-size: 28px;
+        margin: 0;
+    }
+
+    .result {
+        margin-top: 16px;
+        font-size: 18px;
+        min-height: 50px;
+    }
+
+    .next-button {
+        width: 100%;
+        max-width: 360px;
+        padding: 14px 20px;
+        font-size: 18px;
+    }
+
+    .difficulty-selector {
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .difficulty-btn {
+        width: 100%;
+        max-width: 320px;
+        padding: 16px 24px;
+        font-size: 20px;
     }
 }

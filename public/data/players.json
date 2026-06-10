@@ -4,6 +4,7 @@
         "name": "Dan Madesclaire",
         "country": "Denmark",
         "majors": 22,
+        "difficulty": 1,
         "image": "/images/players/apEX.webp"
     },
     {
@@ -11,6 +12,7 @@
         "name": "Robin Kool",
         "country": "Estonia",
         "majors": 13,
+        "difficulty": 1,
         "image": "/images/players/ropz.webp"
     },
     {
@@ -18,6 +20,7 @@
         "name": "Mathieu Herbaut",
         "country": "France",
         "majors": 11,
+        "difficulty": 1,
         "image": "/images/players/ZywOo.webp"
     },
     {
@@ -25,6 +28,7 @@
         "name": "Shahar Shushan",
         "country": "Israel",
         "majors": 7,
+        "difficulty": 1,
         "image": "/images/players/flameZ.webp"
     },
     {
@@ -32,6 +36,7 @@
         "name": "William Merriman",
         "country": "United Kingdom",
         "majors": 7,
+        "difficulty": 1,
         "image": "/images/players/mezii.webp"
     },
     {
@@ -39,6 +44,7 @@
         "name": "Aleksi Virolainen",
         "country": "Finland",
         "majors": 10,
+        "difficulty": 1,
         "image": "/images/players/Aleksib.webp"
     },
     {
@@ -46,6 +52,7 @@
         "name": "Mihai Ivan",
         "country": "Romania",
         "majors": 7,
+        "difficulty": 1,
         "image": "/images/players/iM.webp"
     },
     {
@@ -53,6 +60,7 @@
         "name": "Valeriy Vakhovskiy",
         "country": "Ukraine",
         "majors": 9,
+        "difficulty": 1,
         "image": "/images/players/b1t.webp"
     },
     {
@@ -60,6 +68,7 @@
         "name": "Ihor Zhdanov",
         "country": "Ukraine",
         "majors": 6,
+        "difficulty": 1,
         "image": "/images/players/w0nderful.webp"
     },
     {
@@ -67,6 +76,7 @@
         "name": "Drin Shaqiri",
         "country": "Kosovo",
         "majors": 2,
+        "difficulty": 1,
         "image": "/images/players/makazze.webp"
     },
     {
@@ -74,6 +84,7 @@
         "name": "Dmitry Sokolov",
         "country": "Russia",
         "majors": 8,
+        "difficulty": 1,
         "image": "/images/players/sh1ro.webp"
     },
     {
@@ -81,6 +92,7 @@
         "name": "Boris Vorobiev",
         "country": "Russia",
         "majors": 7,
+        "difficulty": 1,
         "image": "/images/players/magixx.webp"
     },
     {
@@ -88,6 +100,7 @@
         "name": "Andrey Tatarinovich",
         "country": "Belarus",
         "majors": 3,
+        "difficulty": 2,
         "image": "/images/players/tN1R.webp"
     },
     {
@@ -95,6 +108,7 @@
         "name": "Myroslav Plakhotia",
         "country": "Ukraine",
         "majors": 4,
+        "difficulty": 1,
         "image": "/images/players/zont1x.webp"
     },
     {
@@ -102,6 +116,7 @@
         "name": "Danil Kryshkovets",
         "country": "Russia",
         "majors": 5,
+        "difficulty": 1,
         "image": "/images/players/donk.webp"
     },
     {
@@ -109,6 +124,7 @@
         "name": "Finn Andersen",
         "country": "Denmark",
         "majors": 22,
+        "difficulty": 1,
         "image": "/images/players/karrigan.webp"
     },
     {
@@ -116,6 +132,7 @@
         "name": "Nikola Kovač",
         "country": "Bosnia and Herzegovina",
         "majors": 17,
+        "difficulty": 1,
         "image": "/images/players/NiKo.webp"
     },
     {
@@ -123,6 +140,7 @@
         "name": "René Madsen",
         "country": "Denmark",
         "majors": 9,
+        "difficulty": 2,
         "image": "/images/players/TeSeS.webp"
     },
     {
@@ -130,6 +148,7 @@
         "name": "Ilya Osipov",
         "country": "Russia",
         "majors": 7,
+        "difficulty": 1,
         "image": "/images/players/m0NESY.webp"
     },
     {
@@ -137,6 +156,7 @@
         "name": "Maksim Lukin",
         "country": "Russia",
         "majors": 2,
+        "difficulty": 1,
         "image": "/images/players/kyousuke.webp"
     },
     {
@@ -144,6 +164,7 @@
         "name": "Gabriel Toledo",
         "country": "Brazil",
         "majors": 19,
+        "difficulty": 1,
         "image": "/images/players/FalleN.webp"
     },
     {
@@ -151,6 +172,7 @@
         "name": "Yuri Santos",
         "country": "Brazil",
         "majors": 11,
+        "difficulty": 1,
         "image": "/images/players/yuurih.webp"
     },
     {
@@ -158,6 +180,7 @@
         "name": "Mareks Gaļinskis",
         "country": "Latvia",
         "majors": 8,
+        "difficulty": 1,
         "image": "/images/players/YEKINDAR.webp"
     },
     {
@@ -165,6 +188,7 @@
         "name": "Kaike Cerato",
         "country": "Brazil",
         "majors": 11,
+        "difficulty": 1,
         "image": "/images/players/KSCERATO.webp"
     },
     {
@@ -172,6 +196,7 @@
         "name": "Danil Golubenko",
         "country": "Kazakhstan",
         "majors": 3,
+        "difficulty": 1,
         "image": "/images/players/molodoy.webp"
     },
     {
@@ -179,6 +204,7 @@
         "name": "Engin Küpeli",
         "country": "Türkiye",
         "majors": 6,
+        "difficulty": 1,
         "image": "/images/players/MAJ3R.webp"
     },
     {
@@ -186,6 +212,7 @@
         "name": "Ismailcan Dörtkardeş",
         "country": "Türkiye",
         "majors": 8,
+        "difficulty": 1,
         "image": "/images/players/XANTARES.webp"
     },
     {
@@ -193,6 +220,7 @@
         "name": "Özgür Eker",
         "country": "Türkiye",
         "majors": 8,
+        "difficulty": 1,
         "image": "/images/players/woxic.webp"
     },
     {
@@ -200,6 +228,7 @@
         "name": "Caner Kesici",
         "country": "Türkiye",
         "majors": 1,
+        "difficulty": 2,
         "image": "/images/players/soulfly.webp"
     },
     {
@@ -207,6 +236,7 @@
         "name": "Ali Haydar Yalçın",
         "country": "Türkiye",
         "majors": 4,
+        "difficulty": 1,
         "image": "/images/players/Wicadia.webp"
     },
     {
@@ -214,6 +244,7 @@
         "name": "Ludvig Brolin",
         "country": "Sweden",
         "majors": 9,
+        "difficulty": 1,
         "image": "/images/players/Brollan.webp"
     },
     {
@@ -221,6 +252,7 @@
         "name": "Ádám Torzsás",
         "country": "Hungary",
         "majors": 7,
+        "difficulty": 1,
         "image": "/images/players/torzsi.webp"
     },
     {
@@ -228,6 +260,7 @@
         "name": "Lotan Giladi",
         "country": "Israel",
         "majors": 9,
+        "difficulty": 1,
         "image": "/images/players/Spinx.webp"
     },
     {
@@ -235,6 +268,7 @@
         "name": "Dorian Berman",
         "country": "Israel",
         "majors": 7,
+        "difficulty": 1,
         "image": "/images/players/xertioN.webp"
     },
     {
@@ -242,6 +276,7 @@
         "name": "Adrian Vincze",
         "country": "Hungary",
         "majors": 1,
+        "difficulty": 2,
         "image": "/images/players/xelex.webp"
     },
     {
@@ -249,6 +284,7 @@
         "name": "Andrei Piovezan",
         "country": "Brazil",
         "majors": 10,
+        "difficulty": 2,
         "image": "/images/players/arT.webp"
     },
     {
@@ -256,6 +292,7 @@
         "name": "Eduardo Wolkmer",
         "country": "Brazil",
         "majors": 6,
+        "difficulty": 2,
         "image": "/images/players/dumau.webp"
     },
     {
@@ -263,6 +300,7 @@
         "name": "Bruno Rebelatto",
         "country": "Brazil",
         "majors": 6,
+        "difficulty": 2,
         "image": "/images/players/latto.webp"
     },
     {
@@ -270,6 +308,7 @@
         "name": "Vinicius Pereira",
         "country": "Brazil",
         "majors": 4,
+        "difficulty": 3,
         "image": "/images/players/n1ssim.webp"
     },
     {
@@ -277,6 +316,7 @@
         "name": "Guilherme Pacheco",
         "country": "Brazil",
         "majors": 3,
+        "difficulty": 3,
         "image": "/images/players/.webp"
     },
     {
@@ -284,6 +324,7 @@
         "name": "Garidmagnai Byambasuren",
         "country": "Mongolia",
         "majors": 8,
+        "difficulty": 1,
         "image": "/images/players/bLitz.webp"
     },
     {
@@ -291,6 +332,7 @@
         "name": "Sodbayar Munkhbold",
         "country": "Mongolia",
         "majors": 8,
+        "difficulty": 1,
         "image": "/images/players/Techno.webp"
     },
     {
@@ -298,6 +340,7 @@
         "name": "Ayush Batbold",
         "country": "Mongolia",
         "majors": 5,
+        "difficulty": 1,
         "image": "/images/players/mzinho.webp"
     },
     {
@@ -305,6 +348,7 @@
         "name": "Usukhbayar Banzragch",
         "country": "Mongolia",
         "majors": 5,
+        "difficulty": 1,
         "image": "/images/players/910.webp"
     },
     {
@@ -312,6 +356,7 @@
         "name": "Anarbileg Uuganbayar",
         "country": "Mongolia",
         "majors": 2,
+        "difficulty": 3,
         "image": "/images/players/cobrazera.webp"
     },
     {
@@ -319,6 +364,7 @@
         "name": "Dzhami Ali",
         "country": "Russia",
         "majors": 10,
+        "difficulty": 1,
         "image": "/images/players/Jame.webp"
     },
     {
@@ -326,6 +372,7 @@
         "name": "Andrey Yasinskiy",
         "country": "Russia",
         "majors": 2,
+        "difficulty": 2,
         "image": "/images/players/BELCHONOKK.webp"
     },
     {
@@ -333,6 +380,7 @@
         "name": "Vladislav Lysov",
         "country": "Russia",
         "majors": 2,
+        "difficulty": 2,
         "image": "/images/players/xiELO.webp"
     },
     {
@@ -340,6 +388,7 @@
         "name": "Emil Moskvitin",
         "country": "Russia",
         "majors": 2,
+        "difficulty": 2,
         "image": "/images/players/nota.webp"
     },
     {
@@ -347,6 +396,7 @@
         "name": "Ivan Gogin",
         "country": "Russia",
         "majors": 3,
+        "difficulty": 2,
         "image": "/images/players/zweih.webp"
     },
     {
@@ -354,6 +404,7 @@
         "name": "Nemanja Kovač",
         "country": "Bosnia and Herzegovina",
         "majors": 9,
+        "difficulty": 1,
         "image": "/images/players/huNter-.webp"
     },
     {
@@ -361,6 +412,7 @@
         "name": "Guy Iluz",
         "country": "Israel",
         "majors": 6,
+        "difficulty": 2,
         "image": "/images/players/NertZ.webp"
     },
     {
@@ -368,6 +420,7 @@
         "name": "Álvaro García",
         "country": "Spain",
         "majors": 6,
+        "difficulty": 2,
         "image": "/images/players/SunPayus.webp"
     },
     {
@@ -375,6 +428,7 @@
         "name": "Nikita Martynenko",
         "country": "Israel",
         "majors": 4,
+        "difficulty": 2,
         "image": "/images/players/HeavyGod.webp"
     },
     {
@@ -382,6 +436,7 @@
         "name": "Matúš Šimko",
         "country": "Slovakia",
         "majors": 3,
+        "difficulty": 2,
         "image": "/images/players/MATYS.webp"
     },
     {
@@ -389,6 +444,7 @@
         "name": "Dmytro Myroshnychenko",
         "country": "Ukraine",
         "majors": 1,
+        "difficulty": 2,
         "image": "/images/players/dem0n.webp"
     },
     {
@@ -396,6 +452,7 @@
         "name": "Laurențiu Țârlea",
         "country": "Romania",
         "majors": 2,
+        "difficulty": 2,
         "image": "/images/players/lauNX.webp"
     },
     {
@@ -403,6 +460,7 @@
         "name": "Aulon Fazlija",
         "country": "Kosovo",
         "majors": 1,
+        "difficulty": 2,
         "image": "/images/players/Krabeni.webp"
     },
     {
@@ -410,6 +468,7 @@
         "name": "Nikita Samolotov",
         "country": "Ukraine",
         "majors": 1,
+        "difficulty": 2,
         "image": "/images/players/cmtry.webp"
     },
     {
@@ -417,6 +476,7 @@
         "name": "Džiugas Steponavičius",
         "country": "Lithuania",
         "majors": 1,
+        "difficulty": 2,
         "image": "/images/players/dziugss.webp"
     },
     {
@@ -424,6 +484,7 @@
         "name": "Kirill Mikhailov",
         "country": "Russia",
         "majors": 10,
+        "difficulty": 1,
         "image": "/images/players/Boombl4.webp"
     },
     {
@@ -431,6 +492,7 @@
         "name": "Aleksandr Zagodyrenko",
         "country": "Russia",
         "majors": 4,
+        "difficulty": 3,
         "image": "/images/players/zorte.webp"
     },
     {
@@ -438,6 +500,7 @@
         "name": "Daniil Kustov",
         "country": "Russia",
         "majors": 1,
+        "difficulty": 3,
         "image": "/images/players/d1Ledez.webp"
     },
     {
@@ -445,6 +508,7 @@
         "name": "Timur Marev",
         "country": "Russia",
         "majors": 3,
+        "difficulty": 2,
         "image": "/images/players/FL4MUS.webp"
     },
     {
@@ -452,6 +516,4639 @@
         "name": "Kirill Rodnov",
         "country": "Russia",
         "majors": 2,
+        "difficulty": 3,
         "image": "/images/players/Magnojez.webp"
+    },
+    {
+        "tag": "max",
+        "name": "Maximiliano Gonzalez",
+        "country": "Uruguay",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/max.webp"
+    },
+    {
+        "tag": "dgt",
+        "name": "Franco Garcia",
+        "country": "Uruguay",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/dgt.webp"
+    },
+    {
+        "tag": "meyern",
+        "name": "Ignacio Meyer",
+        "country": "Argentina",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/meyern.webp"
+    },
+    {
+        "tag": "luchov",
+        "name": "Luciano Herrera",
+        "country": "Argentina",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/luchov.webp"
+    },
+    {
+        "tag": "HUASOPEEK",
+        "name": "Matias Ibañez Hernandez",
+        "country": "Chilie",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/HUASOPEEK.webp"
+    },
+    {
+        "tag": "Rainwaker",
+        "name": "Aleks Petrov",
+        "country": "Bulgaria",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Rainwaker.webp"
+    },
+    {
+        "tag": "Bymas",
+        "name": "Aurimas Pipiras",
+        "country": "Lithuania",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/Bymas.webp"
+    },
+    {
+        "tag": "afro",
+        "name": "Aurélien Drapier",
+        "country": "France",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/afro.webp"
+    },
+    {
+        "tag": "Gizmy",
+        "name": "Jack von Spreckelsen",
+        "country": "United Kingdom",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Gizmy.webp"
+    },
+    {
+        "tag": "AZUWU",
+        "name": "Oscar Bell",
+        "country": "United Kingdom",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/AZUWU.webp"
+    },
+    {
+        "tag": "Snax",
+        "name": "Janusz Pogorzelski",
+        "country": "Poland",
+        "majors": 17,
+        "difficulty": 1,
+        "image": "/images/players/Snax.webp"
+    },
+    {
+        "tag": "REZ",
+        "name": "Fredrik Sterner",
+        "country": "Sweden",
+        "majors": 9,
+        "difficulty": 2,
+        "image": "/images/players/REZ.webp"
+    },
+    {
+        "tag": "Tauson",
+        "name": "Sebastian Tauson Lindelof",
+        "country": "Denmark",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/Tauson.webp"
+    },
+    {
+        "tag": "PR",
+        "name": "Oldřich Nový",
+        "country": "Czech Republic",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/PR.webp"
+    },
+    {
+        "tag": "hypex",
+        "name": "Milan Polowiec",
+        "country": "Poland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/hypex.webp"
+    },
+    {
+        "tag": "HooXi",
+        "name": "Rasmus Nielsen",
+        "country": "Denmark",
+        "majors": 6,
+        "difficulty": 2,
+        "image": "/images/players/HooXi.webp"
+    },
+    {
+        "tag": "phzy",
+        "name": "Love Smidebrant",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/phzy.webp"
+    },
+    {
+        "tag": "jabbi",
+        "name": "Jakob Nygaard",
+        "country": "Denmark",
+        "majors": 6,
+        "difficulty": 2,
+        "image": "/images/players/jabbi.webp"
+    },
+    {
+        "tag": "Staehr",
+        "name": "Victor Staehr",
+        "country": "Denmark",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/Staehr.webp"
+    },
+    {
+        "tag": "ryu",
+        "name": "Gytis Glušauskas",
+        "country": "Lithuania",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ryu.webp"
+    },
+    {
+        "tag": "alex666",
+        "name": "Alexey Yarmoshchuk",
+        "country": "Ukraine",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/alex666.webp"
+    },
+    {
+        "tag": "npl",
+        "name": "Andrii Kukharskyi",
+        "country": "Ukraine",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/npl.webp"
+    },
+    {
+        "tag": "kensizor",
+        "name": "Artem Kapran",
+        "country": "Ukraine",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/kensizor.webp"
+    },
+    {
+        "tag": "esenthial",
+        "name": "Dmytro Tsvir",
+        "country": "Ukraine",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/esenthial.webp"
+    },
+    {
+        "tag": "s1zzi",
+        "name": "Danylo Vinnyk",
+        "country": "Ukraine",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/s1zzi.webp"
+    },
+    {
+        "tag": "vsm",
+        "name": "Vinicius Moreira",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/vsm.webp"
+    },
+    {
+        "tag": "biguzera",
+        "name": "Rodrigo Bittencourt",
+        "country": "Brazil",
+        "majors": 7,
+        "difficulty": 2,
+        "image": "/images/players/biguzera.webp"
+    },
+    {
+        "tag": "piriajr",
+        "name": "Guilherme Barbosa",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/piriajr.webp"
+    },
+    {
+        "tag": "saffee",
+        "name": "Rafael Costa",
+        "country": "Brazil",
+        "majors": 7,
+        "difficulty": 3,
+        "image": "/images/players/saffee.webp"
+    },
+    {
+        "tag": "snow",
+        "name": "João Vinicius",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/snow.webp"
+    },
+    {
+        "tag": "LNZ",
+        "name": "Linus Holtäng",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/LNZ.webp"
+    },
+    {
+        "tag": "brnz4n",
+        "name": "Breno Poletto",
+        "country": "Brazil",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/brnz4n.webp"
+    },
+    {
+        "tag": "insani",
+        "name": "Felipe Yuji",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/insani.webp"
+    },
+    {
+        "tag": "venomzera",
+        "name": "Carlos Eduardo",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/venomzera.webp"
+    },
+    {
+        "tag": "kl1m",
+        "name": "Klimentii Krivosheev",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/kl1m.webp"
+    },
+    {
+        "tag": "slaxz-",
+        "name": "Fritz Dietrich",
+        "country": "Germany",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/slaxz-.webp"
+    },
+    {
+        "tag": "Swisher",
+        "name": "Michael Schmid",
+        "country": "USA",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Swisher.webp"
+    },
+    {
+        "tag": "s1n",
+        "name": "Elias Stein",
+        "country": "Germany",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/s1n.webp"
+    },
+    {
+        "tag": "JBa",
+        "name": "Josh Barutt",
+        "country": "USA",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/JBa.webp"
+    },
+    {
+        "tag": "Lake",
+        "name": "Mason Sanderson",
+        "country": "USA",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/Lake.webp"
+    },
+    {
+        "tag": "JamYoung",
+        "name": "Yi Yang",
+        "country": "China",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/JamYoung.webp"
+    },
+    {
+        "tag": "Jee",
+        "name": "Dongkai Ji",
+        "country": "China",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/Jee.webp"
+    },
+    {
+        "tag": "Mercury",
+        "name": "Jingxiang Wang",
+        "country": "China",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Mercury.webp"
+    },
+    {
+        "tag": "Moseyuh",
+        "name": "Qianhao Chen",
+        "country": "China",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Moseyuh.webp"
+    },
+    {
+        "tag": "Zero",
+        "name": "Su Jingshen",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Zero.webp"
+    },
+    {
+        "tag": "tabseN",
+        "name": "Johannes Wodarz",
+        "country": "Germany",
+        "majors": 10,
+        "difficulty": 2,
+        "image": "/images/players/tabseN.webp"
+    },
+    {
+        "tag": "JDC",
+        "name": "Jon de Castro",
+        "country": "Germany",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/JDC.webp"
+    },
+    {
+        "tag": "faveN",
+        "name": "Josef Baumann",
+        "country": "Germany",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/faveN.webp"
+    },
+    {
+        "tag": "blameF",
+        "name": "Benjamin Bremer",
+        "country": "Denmark",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/blameF.webp"
+    },
+    {
+        "tag": "gr1ks",
+        "name": "Gleb Gazin",
+        "country": "Belarus",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/gr1ks.webp"
+    },
+    {
+        "tag": "jks",
+        "name": "Justin Savage",
+        "country": "Australia",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/jks.webp"
+    },
+    {
+        "tag": "INS",
+        "name": "Joshua Potter",
+        "country": "Australia",
+        "majors": 8,
+        "difficulty": 3,
+        "image": "/images/players/INS.webp"
+    },
+    {
+        "tag": "Vexite",
+        "name": "Declan Portelli",
+        "country": "Australia",
+        "majors": 6,
+        "difficulty": 3,
+        "image": "/images/players/Vexite.webp"
+    },
+    {
+        "tag": "nettik",
+        "name": "Corey Browne",
+        "country": "New Zealand",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/nettik.webp"
+    },
+    {
+        "tag": "story",
+        "name": "João Vieira",
+        "country": "Portugal",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/story.webp"
+    },
+    {
+        "tag": "NAF",
+        "name": "Keith Markovic",
+        "country": "Canada",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/NAF.webp"
+    },
+    {
+        "tag": "EliGE",
+        "name": "Jonathan Jablonowski",
+        "country": "USA",
+        "majors": 17,
+        "difficulty": 1,
+        "image": "/images/players/EliGE.webp"
+    },
+    {
+        "tag": "malbsMd",
+        "name": "Mario Samayoa",
+        "country": "Guatemala",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/malbsMd.webp"
+    },
+    {
+        "tag": "siuhy",
+        "name": "Kamil Szkaradek",
+        "country": "Poland",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/siuhy.webp"
+    },
+    {
+        "tag": "ultimate",
+        "name": "Roland Tomkowiak",
+        "country": "Poland",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/ultimate.webp"
+    },
+    {
+        "tag": "xfl0ud",
+        "name": "Yasin Koç",
+        "country": "Türkiye",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/xfl0ud.webp"
+    },
+    {
+        "tag": "nilo",
+        "name": "Linus Bergman",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/nilo.webp"
+    },
+    {
+        "tag": "susp",
+        "name": "Tim Ångström",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/susp.webp"
+    },
+    {
+        "tag": "Chr1zN",
+        "name": "Christoffer Storgaard",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Chr1zN.webp"
+    },
+    {
+        "tag": "yxngstxr",
+        "name": "Simon Boije",
+        "country": "Sweden",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/yxngstxr.webp"
+    },
+    {
+        "tag": "beastik",
+        "name": "Sebastian Daňo",
+        "country": "Czech Republic",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/beastik.webp"
+    },
+    {
+        "tag": "SHOCK",
+        "name": "Max Kvapil",
+        "country": "Czech Republic",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/SHOCK.webp"
+    },
+    {
+        "tag": "MoDo",
+        "name": "Mădălin-Andrei Mirea",
+        "country": "Romania",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/MoDo.webp"
+    },
+    {
+        "tag": "kisserek",
+        "name": "Kamil Banak",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/kisserek.webp"
+    },
+    {
+        "tag": "stressarN",
+        "name": "Jordan Manevski",
+        "country": "Macedonia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/stressarN.webp"
+    },
+    {
+        "tag": "Westmelon",
+        "name": "Zhe Niu",
+        "country": "China",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/Westmelon.webp"
+    },
+    {
+        "tag": "z4KR",
+        "name": "Sike Zhang",
+        "country": "China",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/z4KR.webp"
+    },
+    {
+        "tag": "Starry",
+        "name": "Lizhi Ye",
+        "country": "China",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/Starry.webp"
+    },
+    {
+        "tag": "EmiliaQAQ",
+        "name": "Junjie Tang",
+        "country": "China",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/EmiliaQAQ.webp"
+    },
+    {
+        "tag": "C4LLM3SU3",
+        "name": "Qihao Su",
+        "country": "China",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/C4LLM3SU3.webp"
+    },
+    {
+        "tag": "nitr0",
+        "name": "Nick Cannella",
+        "country": "USA",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/nitr0.webp"
+    },
+    {
+        "tag": "Sonic",
+        "name": "Aran Groesbeek",
+        "country": "Republic of South Africa",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/Sonic.webp"
+    },
+    {
+        "tag": "oSee",
+        "name": "Josh Ohm",
+        "country": "USA",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/oSee.webp"
+    },
+    {
+        "tag": "Grim",
+        "name": "Michael Wince",
+        "country": "USA",
+        "majors": 8,
+        "difficulty": 2,
+        "image": "/images/players/Grim.webp"
+    },
+    {
+        "tag": "br0",
+        "name": "Alexander Bro",
+        "country": "Denmark",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/br0.webp"
+    },
+    {
+        "tag": "gafolo",
+        "name": "Victor Andrade",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/gafolo.webp"
+    },
+    {
+        "tag": "koala",
+        "name": "João Pfeffer",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/koala.webp"
+    },
+    {
+        "tag": "maxxkor",
+        "name": "Máximo Cortina",
+        "country": "Argentina",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/maxxkor.webp"
+    },
+    {
+        "tag": "rdnzao",
+        "name": "Daniel Monteiro",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/rdnzao.webp"
+    },
+    {
+        "tag": "doc",
+        "name": "Danilo Barros",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/doc.webp"
+    },
+    {
+        "tag": "dexter",
+        "name": "Christopher Nong",
+        "country": "Australia",
+        "majors": 7,
+        "difficulty": 2,
+        "image": "/images/players/dexter.webp"
+    },
+    {
+        "tag": "Liazz",
+        "name": "Jay Tregillgas",
+        "country": "Australia",
+        "majors": 8,
+        "difficulty": 2,
+        "image": "/images/players/Liazz.webp"
+    },
+    {
+        "tag": "aliStair",
+        "name": "Alistair Johnston",
+        "country": "Australia",
+        "majors": 6,
+        "difficulty": 3,
+        "image": "/images/players/aliStair.webp"
+    },
+    {
+        "tag": "asap",
+        "name": "Tyson Paterson",
+        "country": "Australia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/asap.webp"
+    },
+    {
+        "tag": "TjP",
+        "name": "Tynan Purtell",
+        "country": "Australia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/TjP.webp"
+    },
+    {
+        "tag": "fer",
+        "name": "Fernando Alvarenga",
+        "country": "Brazil",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/fer.webp"
+    },
+    {
+        "tag": "NEKIZ",
+        "name": "Gabriel Schenato",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/NEKIZ.webp"
+    },
+    {
+        "tag": "HEN1",
+        "name": "Henrique Teles",
+        "country": "Brazil",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/HEN1.webp"
+    },
+    {
+        "tag": "Luken",
+        "name": "Luca Nadotti",
+        "country": "Argentina",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Luken.webp"
+    },
+    {
+        "tag": "JOTA",
+        "name": "Jhonatan Willian",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/JOTA.webp"
+    },
+    {
+        "tag": "kyxsan",
+        "name": "Damjan Stoilkovski",
+        "country": "Macedonia",
+        "majors": 5,
+        "difficulty": 1,
+        "image": "/images/players/kyxsan.webp"
+    },
+    {
+        "tag": "Jimpphat",
+        "name": "Jimi Salo",
+        "country": "Finland",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/Jimpphat.webp"
+    },
+    {
+        "tag": "controlez",
+        "name": "Unudelger Baasanjargal",
+        "country": "Mongolia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/controlez.webp"
+    },
+    {
+        "tag": "chopper",
+        "name": "Leonid Vishnyakov",
+        "country": "Russia",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/chopper.webp"
+    },
+    {
+        "tag": "dav1deuS",
+        "name": "David Tapia Maldonado",
+        "country": "Chilie",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/dav1deuS.webp"
+    },
+    {
+        "tag": "nqz",
+        "name": "Lucas Soares",
+        "country": "Brazil",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/nqz.webp"
+    },
+    {
+        "tag": "frozen",
+        "name": "David Čerňanský",
+        "country": "Slovakia",
+        "majors": 8,
+        "difficulty": 1,
+        "image": "/images/players/frozen.webp"
+    },
+    {
+        "tag": "Twistzz",
+        "name": "Russel Van Dulken",
+        "country": "Canada",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/Twistzz.webp"
+    },
+    {
+        "tag": "broky",
+        "name": "Helvijs Saukants",
+        "country": "Latvia",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/broky.webp"
+    },
+    {
+        "tag": "jcobbb",
+        "name": "Jakub Pietruszewski",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/jcobbb.webp"
+    },
+    {
+        "tag": "bodyy",
+        "name": "Alexandre Pianaro",
+        "country": "France",
+        "majors": 9,
+        "difficulty": 2,
+        "image": "/images/players/bodyy.webp"
+    },
+    {
+        "tag": "Maka",
+        "name": "Bryan Canda",
+        "country": "France",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/Maka.webp"
+    },
+    {
+        "tag": "Lucky",
+        "name": "Lucas Chastang",
+        "country": "France",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/Lucky.webp"
+    },
+    {
+        "tag": "Ex3rcice",
+        "name": "Pierre Bulinge",
+        "country": "France",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Ex3rcice.webp"
+    },
+    {
+        "tag": "Graviti",
+        "name": "Filip Brankovic",
+        "country": "France",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Graviti.webp"
+    },
+    {
+        "tag": "headtr1ck",
+        "name": "Daniil Valitov",
+        "country": "Ukraine",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/headtr1ck.webp"
+    },
+    {
+        "tag": "JT",
+        "name": "Johnny Theodosiou",
+        "country": "Republic of South Africa",
+        "majors": 6,
+        "difficulty": 2,
+        "image": "/images/players/JT.webp"
+    },
+    {
+        "tag": "hallzerk",
+        "name": "Håkon Fjærli",
+        "country": "Norway",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/hallzerk.webp"
+    },
+    {
+        "tag": "Kvem",
+        "name": "Vladyslav Korol",
+        "country": "Ukraine",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Kvem.webp"
+    },
+    {
+        "tag": "nicx",
+        "name": "Nick Lee",
+        "country": "USA",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/nicx.webp"
+    },
+    {
+        "tag": "AW",
+        "name": "Andrey Anisimov",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/AW.webp"
+    },
+    {
+        "tag": "chelo",
+        "name": "Marcelo Cespedes",
+        "country": "Brazil",
+        "majors": 6,
+        "difficulty": 3,
+        "image": "/images/players/chelo.webp"
+    },
+    {
+        "tag": "VINI",
+        "name": "Vinicius Figueiredo",
+        "country": "Brazil",
+        "majors": 9,
+        "difficulty": 2,
+        "image": "/images/players/VINI.webp"
+    },
+    {
+        "tag": "skullz",
+        "name": "Felipe Medeiros",
+        "country": "Brazil",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/skullz.webp"
+    },
+    {
+        "tag": "try",
+        "name": "Santino Rigal",
+        "country": "Argentina",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/try.webp"
+    },
+    {
+        "tag": "noway",
+        "name": "Kaiky Santos",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/noway.webp"
+    },
+    {
+        "tag": "jottAAA",
+        "name": "Samet Köklü",
+        "country": "Türkiye",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/jottAAA.webp"
+    },
+    {
+        "tag": "Magisk",
+        "name": "Emil Reif",
+        "country": "Denmark",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/Magisk.webp"
+    },
+    {
+        "tag": "device",
+        "name": "Nicolai Reedtz",
+        "country": "Denmark",
+        "majors": 17,
+        "difficulty": 1,
+        "image": "/images/players/device.webp"
+    },
+    {
+        "tag": "HexT",
+        "name": "Jadan Postma",
+        "country": "Canada",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/HexT.webp"
+    },
+    {
+        "tag": "Attacker",
+        "name": "YuanZhang Sheng",
+        "country": "China",
+        "majors": 6,
+        "difficulty": 2,
+        "image": "/images/players/Attacker.webp"
+    },
+    {
+        "tag": "KRIMZ",
+        "name": "Freddy Johansson",
+        "country": "Sweden",
+        "majors": 18,
+        "difficulty": 1,
+        "image": "/images/players/KRIMZ.webp"
+    },
+    {
+        "tag": "fEAR",
+        "name": "Rodion Smyk",
+        "country": "Ukraine",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/fEAR.webp"
+    },
+    {
+        "tag": "jambo",
+        "name": "Dmytro Semera",
+        "country": "Ukraine",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/jambo.webp"
+    },
+    {
+        "tag": "jackasmo",
+        "name": "Nikita Skyba",
+        "country": "Ukraine",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/jackasmo.webp"
+    },
+    {
+        "tag": "regali",
+        "name": "Iulian Harjău",
+        "country": "Romania",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/regali.webp"
+    },
+    {
+        "tag": "Snappi",
+        "name": "Marco Pfeiffer",
+        "country": "Denmark",
+        "majors": 6,
+        "difficulty": 1,
+        "image": "/images/players/Snappi.webp"
+    },
+    {
+        "tag": "r1nkle",
+        "name": "Artem Moroz",
+        "country": "Ukraine",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/r1nkle.webp"
+    },
+    {
+        "tag": "ewjerkz",
+        "name": "Michel Pinto",
+        "country": "Portugal",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/ewjerkz.webp"
+    },
+    {
+        "tag": "sjuush",
+        "name": "Rasmus Beck",
+        "country": "Denmark",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/sjuush.webp"
+    },
+    {
+        "tag": "xKacpersky",
+        "name": "Kacper Gabara",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 1,
+        "image": "/images/players/xKacpersky.webp"
+    },
+    {
+        "tag": "exit",
+        "name": "Raphael Lacerda",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/exit.webp"
+    },
+    {
+        "tag": "Qikert",
+        "name": "Aleksei Golubev",
+        "country": "Kazakhstan",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/Qikert.webp"
+    },
+    {
+        "tag": "lux",
+        "name": "Lucas Meneghini",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/lux.webp"
+    },
+    {
+        "tag": "ztr",
+        "name": "Erik Gustafsson",
+        "country": "Sweden",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/ztr.webp"
+    },
+    {
+        "tag": "daps",
+        "name": "Damian Steele",
+        "country": "Canada",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/daps.webp"
+    },
+    {
+        "tag": "XotiC",
+        "name": "Zack Elshani",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/XotiC.webp"
+    },
+    {
+        "tag": "Jeorge",
+        "name": "Jeorge Endicott",
+        "country": "USA",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Jeorge.webp"
+    },
+    {
+        "tag": "Lucaozy",
+        "name": "Lucas Neves",
+        "country": "Brazil",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/Lucaozy.webp"
+    },
+    {
+        "tag": "zevy",
+        "name": "Romeu Rocco",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/zevy.webp"
+    },
+    {
+        "tag": "decenty",
+        "name": "Lucas Bacelar",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/decenty.webp"
+    },
+    {
+        "tag": "kye",
+        "name": "Kayke Bertolucci",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/kye.webp"
+    },
+    {
+        "tag": "Summer",
+        "name": "YuLun Cai",
+        "country": "China",
+        "majors": 6,
+        "difficulty": 3,
+        "image": "/images/players/Summer.webp"
+    },
+    {
+        "tag": "Marek",
+        "name": "Tzu-Chi Huang",
+        "country": "Taiwan",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Marek.webp"
+    },
+    {
+        "tag": "ChildKing",
+        "name": "Junhao Peng",
+        "country": "China",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/ChildKing.webp"
+    },
+    {
+        "tag": "Tiger",
+        "name": "Junbing Zhen",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Tiger.webp"
+    },
+    {
+        "tag": "L1haNg",
+        "name": "Yihang Li",
+        "country": "China",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/L1haNg.webp"
+    },
+    {
+        "tag": "drop",
+        "name": "André Abreu",
+        "country": "Brazil",
+        "majors": 6,
+        "difficulty": 2,
+        "image": "/images/players/drop.webp"
+    },
+    {
+        "tag": "chayJESUS",
+        "name": "Richard Seidy",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/chayJESUS.webp"
+    },
+    {
+        "tag": "kauez",
+        "name": "Kaue Kaschuk",
+        "country": "Brazil",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/kauez.webp"
+    },
+    {
+        "tag": "history",
+        "name": "Allan Lawrenz",
+        "country": "Bosnia and Herzegovina",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/history.webp"
+    },
+    {
+        "tag": "nin9",
+        "name": "Yesuntumur Gantulga",
+        "country": "Mongolia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/nin9.webp"
+    },
+    {
+        "tag": "sk0R",
+        "name": "Tengis Batjargal",
+        "country": "Mongolia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/sk0R.webp"
+    },
+    {
+        "tag": "Bart4k",
+        "name": "Baatarkhuu Batbold",
+        "country": "Mongolia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Bart4k.webp"
+    },
+    {
+        "tag": "xerolte",
+        "name": "Munkhtogtokh Enkhbat",
+        "country": "Mongolia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/xerolte.webp"
+    },
+    {
+        "tag": "Senzu",
+        "name": "Azbayar Munkhbold",
+        "country": "Mongolia",
+        "majors": 3,
+        "difficulty": 1,
+        "image": "/images/players/Senzu.webp"
+    },
+    {
+        "tag": "jL",
+        "name": "Justinas Lekavicius",
+        "country": "Lithuania",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/jL.webp"
+    },
+    {
+        "tag": "hades",
+        "name": "Olek Miskiewicz",
+        "country": "Poland",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/hades.webp"
+    },
+    {
+        "tag": "s1mple",
+        "name": "Oleksandr Kostyliev",
+        "country": "Ukraine",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/s1mple.webp"
+    },
+    {
+        "tag": "rain",
+        "name": "Håvard Nygaard",
+        "country": "Norway",
+        "majors": 19,
+        "difficulty": 1,
+        "image": "/images/players/rain.webp"
+    },
+    {
+        "tag": "electroNic",
+        "name": "Denis Sharipov",
+        "country": "Russia",
+        "majors": 13,
+        "difficulty": 1,
+        "image": "/images/players/electroNic.webp"
+    },
+    {
+        "tag": "FL1T",
+        "name": "Evgenii Lebedev",
+        "country": "Russia",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/FL1T.webp"
+    },
+    {
+        "tag": "fame",
+        "name": "Petr Bolyshev",
+        "country": "Russia",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/fame.webp"
+    },
+    {
+        "tag": "ICY",
+        "name": "Kaisar Faiznurov",
+        "country": "Kazakhstan",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/ICY.webp"
+    },
+    {
+        "tag": "Xant3r",
+        "name": "Kirill Kononov",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Xant3r.webp"
+    },
+    {
+        "tag": "1eeR",
+        "name": "Aliaksandr Nahorny",
+        "country": "Belarus",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/1eeR.webp"
+    },
+    {
+        "tag": "riskyb0b",
+        "name": "Maksim Churikov",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/riskyb0b.webp"
+    },
+    {
+        "tag": "khaN",
+        "name": "Beksultan Ospan",
+        "country": "Kazakhstan",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/khaN.webp"
+    },
+    {
+        "tag": "reck",
+        "name": "Ethan Serrano",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/reck.webp"
+    },
+    {
+        "tag": "Ax1Le",
+        "name": "Sergey Rykhtorov",
+        "country": "Russia",
+        "majors": 6,
+        "difficulty": 1,
+        "image": "/images/players/Ax1Le.webp"
+    },
+    {
+        "tag": "S1ren",
+        "name": "Pavel Ogloblin",
+        "country": "Russia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/S1ren.webp"
+    },
+    {
+        "tag": "nicoodoz",
+        "name": "Nico Tamjidi",
+        "country": "Denmark",
+        "majors": 6,
+        "difficulty": 2,
+        "image": "/images/players/nicoodoz.webp"
+    },
+    {
+        "tag": "F1KU",
+        "name": "Maciej Miklas",
+        "country": "Poland",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/F1KU.webp"
+    },
+    {
+        "tag": "spooke",
+        "name": "Olle Grundström",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/spooke.webp"
+    },
+    {
+        "tag": "Buzz",
+        "name": "Christian Andersen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Buzz.webp"
+    },
+    {
+        "tag": "junior",
+        "name": "Paytyn Johnson",
+        "country": "USA",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/junior.webp"
+    },
+    {
+        "tag": "Cxzi",
+        "name": "Danny Strzelczyk",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Cxzi.webp"
+    },
+    {
+        "tag": "stanislaw",
+        "name": "Peter Jarguz",
+        "country": "Canada",
+        "majors": 8,
+        "difficulty": 1,
+        "image": "/images/players/stanislaw.webp"
+    },
+    {
+        "tag": "ROUX",
+        "name": "Undrakhbayar Zolbayar",
+        "country": "Mongolia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ROUX.webp"
+    },
+    {
+        "tag": "cool4st",
+        "name": "Sodbileg Batbaatar",
+        "country": "Mongolia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/cool4st.webp"
+    },
+    {
+        "tag": "ariucle",
+        "name": "Ariunjargal Yadam",
+        "country": "Mongolia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ariucle.webp"
+    },
+    {
+        "tag": "Efire",
+        "name": "Tugserdene Erdenebold",
+        "country": "Mongolia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Efire.webp"
+    },
+    {
+        "tag": "mlhzin",
+        "name": "Matheus Marçola",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/mlhzin.webp"
+    },
+    {
+        "tag": "hampus",
+        "name": "Hampus Poser",
+        "country": "Sweden",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/hampus.webp"
+    },
+    {
+        "tag": "Plopski",
+        "name": "Nicolas Gonzalez Zamora",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Plopski.webp"
+    },
+    {
+        "tag": "isak",
+        "name": "Isak Fahlén",
+        "country": "Sweden",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/isak.webp"
+    },
+    {
+        "tag": "adamb",
+        "name": "Adam Ångström",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/adamb.webp"
+    },
+    {
+        "tag": "L00m1",
+        "name": "Lucas Haukland",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/L00m1.webp"
+    },
+    {
+        "tag": "degster",
+        "name": "Abdul Gasanov",
+        "country": "Russia",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/degster.webp"
+    },
+    {
+        "tag": "Djoko",
+        "name": "Thomas Pavoni",
+        "country": "France",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Djoko.webp"
+    },
+    {
+        "tag": "syrsoN",
+        "name": "Florian Rische",
+        "country": "Germany",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/syrsoN.webp"
+    },
+    {
+        "tag": "rigoN",
+        "name": "Rigon Gashi",
+        "country": "Switzerland",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/rigoN.webp"
+    },
+    {
+        "tag": "Krimbo",
+        "name": "Karim Moussa",
+        "country": "Germany",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Krimbo.webp"
+    },
+    {
+        "tag": "volt",
+        "name": "Sebastian Maloș",
+        "country": "Romania",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/volt.webp"
+    },
+    {
+        "tag": "sl3nd",
+        "name": "Henrich Hevesi",
+        "country": "Hungary",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/sl3nd.webp"
+    },
+    {
+        "tag": "n0rb3r7",
+        "name": "David Danielyan",
+        "country": "Russia",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/n0rb3r7.webp"
+    },
+    {
+        "tag": "floppy",
+        "name": "Ricky Kemery",
+        "country": "USA",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/floppy.webp"
+    },
+    {
+        "tag": "felps",
+        "name": "João Vasconcellos",
+        "country": "Brazil",
+        "majors": 7,
+        "difficulty": 2,
+        "image": "/images/players/felps.webp"
+    },
+    {
+        "tag": "s-chilla",
+        "name": "Vsevolod Shchurov",
+        "country": "Ukraine",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/s-chilla.webp"
+    },
+    {
+        "tag": "zeRRoFIX",
+        "name": "Eduard Petrovskyi",
+        "country": "Ukraine",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/zeRRoFIX.webp"
+    },
+    {
+        "tag": "nawwk",
+        "name": "Tim Jonasson",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/nawwk.webp"
+    },
+    {
+        "tag": "interz",
+        "name": "Timofey Yakushin",
+        "country": "Russia",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/interz.webp"
+    },
+    {
+        "tag": "somebody",
+        "name": "HaoWen Xu",
+        "country": "China",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/somebody.webp"
+    },
+    {
+        "tag": "kaze",
+        "name": "Andrew Khong",
+        "country": "Malaysia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/kaze.webp"
+    },
+    {
+        "tag": "nexa",
+        "name": "Nemanja Isaković",
+        "country": "Serbia",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/nexa.webp"
+    },
+    {
+        "tag": "mir",
+        "name": "Nikolay Bityukov",
+        "country": "Russia",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/mir.webp"
+    },
+    {
+        "tag": "HObbit",
+        "name": "Abay Khassenov",
+        "country": "Kazakhstan",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/HObbit.webp"
+    },
+    {
+        "tag": "Perfecto",
+        "name": "Ilya Zalutskiy",
+        "country": "Russia",
+        "majors": 6,
+        "difficulty": 1,
+        "image": "/images/players/Perfecto.webp"
+    },
+    {
+        "tag": "Calyx",
+        "name": "Buğra Arkın",
+        "country": "Türkiye",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/Calyx.webp"
+    },
+    {
+        "tag": "Nodios",
+        "name": "Magnus Olsen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Nodios.webp"
+    },
+    {
+        "tag": "Patti",
+        "name": "Patrick Larsen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Patti.webp"
+    },
+    {
+        "tag": "Queenix",
+        "name": "Jonas Dideriksen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Queenix.webp"
+    },
+    {
+        "tag": "kraghen",
+        "name": "Tobias Kragh Jensen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/kraghen.webp"
+    },
+    {
+        "tag": "salazar",
+        "name": "Jason Salazar",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/salazar.webp"
+    },
+    {
+        "tag": "gla1ve",
+        "name": "Lukas Rossander",
+        "country": "Denmark",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/gla1ve.webp"
+    },
+    {
+        "tag": "Goofy",
+        "name": "Krzysztof Górski",
+        "country": "Poland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Goofy.webp"
+    },
+    {
+        "tag": "dycha",
+        "name": "Paweł Dycha",
+        "country": "Poland",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/dycha.webp"
+    },
+    {
+        "tag": "Kylar",
+        "name": "Kacper Walukiewicz",
+        "country": "Poland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Kylar.webp"
+    },
+    {
+        "tag": "STYKO",
+        "name": "Martin Styk",
+        "country": "Slovakia",
+        "majors": 5,
+        "difficulty": 1,
+        "image": "/images/players/STYKO.webp"
+    },
+    {
+        "tag": "jkaem",
+        "name": "Joakim Myrbostad",
+        "country": "Norway",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/jkaem.webp"
+    },
+    {
+        "tag": "sense",
+        "name": "Ådne Fredriksen",
+        "country": "Norway",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/sense.webp"
+    },
+    {
+        "tag": "CacaNito",
+        "name": "Aleksandar Kjulukoski",
+        "country": "Macedonia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/CacaNito.webp"
+    },
+    {
+        "tag": "acoR",
+        "name": "Frederik Gyldstrand",
+        "country": "Denmark",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/acoR.webp"
+    },
+    {
+        "tag": "Keoz",
+        "name": "Nicolas Dgus",
+        "country": "Belgium",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/Keoz.webp"
+    },
+    {
+        "tag": "MUTiRiS",
+        "name": "Christopher Fernandes",
+        "country": "Portugal",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/MUTiRiS.webp"
+    },
+    {
+        "tag": "roman",
+        "name": "Ricardo Oliveira",
+        "country": "Portugal",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/roman.webp"
+    },
+    {
+        "tag": "arrozdoce",
+        "name": "Rafael Wing",
+        "country": "Portugal",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/arrozdoce.webp"
+    },
+    {
+        "tag": "NickelBack",
+        "name": "Aleksei Trofimov",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/NickelBack.webp"
+    },
+    {
+        "tag": "Krad",
+        "name": "Vladislav Kravchenko",
+        "country": "Russia",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/Krad.webp"
+    },
+    {
+        "tag": "Forester",
+        "name": "Igor Bezotecheskiy",
+        "country": "Russia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Forester.webp"
+    },
+    {
+        "tag": "TRAVIS",
+        "name": "Aleksandr Timkiv",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/TRAVIS.webp"
+    },
+    {
+        "tag": "JUST",
+        "name": "Tiago Moura",
+        "country": "Portugal",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/JUST.webp"
+    },
+    {
+        "tag": "mopoz",
+        "name": "Alejandro Fernández-Quejo Cano",
+        "country": "Spain",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/mopoz.webp"
+    },
+    {
+        "tag": "stadodo",
+        "name": "Renato Gonçalves",
+        "country": "Portugal",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/stadodo.webp"
+    },
+    {
+        "tag": "dav1g",
+        "name": "David Granado Bermudo",
+        "country": "Spain",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/dav1g.webp"
+    },
+    {
+        "tag": "adamS",
+        "name": "Adam Marian",
+        "country": "Romania",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/adamS.webp"
+    },
+    {
+        "tag": "coldzera",
+        "name": "Marcelo David",
+        "country": "Brazil",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/coldzera.webp"
+    },
+    {
+        "tag": "cadiaN",
+        "name": "Casper Møller",
+        "country": "Denmark",
+        "majors": 8,
+        "difficulty": 1,
+        "image": "/images/players/cadiaN.webp"
+    },
+    {
+        "tag": "stavn",
+        "name": "Martin Lund",
+        "country": "Denmark",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/stavn.webp"
+    },
+    {
+        "tag": "dupreeh",
+        "name": "Peter Rasmussen",
+        "country": "Denmark",
+        "majors": 18,
+        "difficulty": 1,
+        "image": "/images/players/dupreeh.webp"
+    },
+    {
+        "tag": "Maden",
+        "name": "Pavle Bošković",
+        "country": "Montenegro",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/Maden.webp"
+    },
+    {
+        "tag": "k0nfig",
+        "name": "Kristian Wienecke",
+        "country": "Denmark",
+        "majors": 7,
+        "difficulty": 2,
+        "image": "/images/players/k0nfig.webp"
+    },
+    {
+        "tag": "FASHR",
+        "name": "Dion Derksen",
+        "country": "Netherlands",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/FASHR.webp"
+    },
+    {
+        "tag": "roeJ",
+        "name": "Fredrik Jørgensen",
+        "country": "Denmark",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/roeJ.webp"
+    },
+    {
+        "tag": "mynio",
+        "name": "Wiktor Kruk",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/mynio.webp"
+    },
+    {
+        "tag": "KEi",
+        "name": "Kamil Pietkun",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/KEi.webp"
+    },
+    {
+        "tag": "SENER1",
+        "name": "Sener Mahmuti",
+        "country": "Kosovo",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/SENER1.webp"
+    },
+    {
+        "tag": "juanflatroo",
+        "name": "Flatron Halimi",
+        "country": "Kosovo",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/juanflatroo.webp"
+    },
+    {
+        "tag": "sinnopsyy",
+        "name": "Dionis Budeci",
+        "country": "Kosovo",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/sinnopsyy.webp"
+    },
+    {
+        "tag": "gxx-",
+        "name": "Genc Kolgeci",
+        "country": "Kosovo",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/gxx-.webp"
+    },
+    {
+        "tag": "sdy",
+        "name": "Viktor Orudzhev",
+        "country": "Ukraine",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/sdy.webp"
+    },
+    {
+        "tag": "Woro2k",
+        "name": "Volodymyr Veletniuk",
+        "country": "Ukraine",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/Woro2k.webp"
+    },
+    {
+        "tag": "DemQQ",
+        "name": "Sergiy Demchenko",
+        "country": "Ukraine",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/DemQQ.webp"
+    },
+    {
+        "tag": "BOROS",
+        "name": "Mohammad Malhas",
+        "country": "Jordan",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/BOROS.webp"
+    },
+    {
+        "tag": "kRaSnaL",
+        "name": "Szymon Mrozek",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/kRaSnaL.webp"
+    },
+    {
+        "tag": "rallen",
+        "name": "Karol Rodowicz",
+        "country": "Poland",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/rallen.webp"
+    },
+    {
+        "tag": "CRUC1AL",
+        "name": "Joey Steusel",
+        "country": "Netherlands",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/CRUC1AL.webp"
+    },
+    {
+        "tag": "Thomas",
+        "name": "Thomas Utting",
+        "country": "United Kingdom",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Thomas.webp"
+    },
+    {
+        "tag": "CYPHER",
+        "name": "Cai Watson",
+        "country": "United Kingdom",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/CYPHER.webp"
+    },
+    {
+        "tag": "niko",
+        "name": "Nikolaj Kristensen",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/niko_dk.webp"
+    },
+    {
+        "tag": "NEOFRAG",
+        "name": "Adam Zouhar",
+        "country": "Czech Republic",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/NEOFRAG.webp"
+    },
+    {
+        "tag": "Jerry",
+        "name": "Andrey Mekhryakov",
+        "country": "Russia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Jerry.webp"
+    },
+    {
+        "tag": "shalfey",
+        "name": "Aleksandr Marenov",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/shalfey.webp"
+    },
+    {
+        "tag": "r3salt",
+        "name": "Evgeny Frolov",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/r3salt.webp"
+    },
+    {
+        "tag": "hardzao",
+        "name": "Wesley Lopes",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/hardzao.webp"
+    },
+    {
+        "tag": "FaNg",
+        "name": "Justin Coakley",
+        "country": "Canada",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/FaNg.webp"
+    },
+    {
+        "tag": "hasteka",
+        "name": "Chinguun Bayarmaa",
+        "country": "Mongolia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/hasteka.webp"
+    },
+    {
+        "tag": "Annihilation",
+        "name": "Tuvshintugs Nyamdorj",
+        "country": "Mongolia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Annihilation.webp"
+    },
+    {
+        "tag": "Sico",
+        "name": "Simon Williams",
+        "country": "New Zealand",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/Sico.webp"
+    },
+    {
+        "tag": "WOOD7",
+        "name": "Adriano Cerato",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/WOOD7.webp"
+    },
+    {
+        "tag": "nafany",
+        "name": "Vladislav Gorshkov",
+        "country": "Russia",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/nafany.webp"
+    },
+    {
+        "tag": "es3tag",
+        "name": "Patrick Hansen",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/es3tag.webp"
+    },
+    {
+        "tag": "valde",
+        "name": "Valdemar Bjørn Vangså",
+        "country": "Denmark",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/valde.webp"
+    },
+    {
+        "tag": "Patsi",
+        "name": "Robert Isyanov",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Patsi.webp"
+    },
+    {
+        "tag": "k1to",
+        "name": "Nils Gruhne",
+        "country": "Germany",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/k1to.webp"
+    },
+    {
+        "tag": "refrezh",
+        "name": "Ismail Ali",
+        "country": "Denmark",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/refrezh.webp"
+    },
+    {
+        "tag": "Zyphon",
+        "name": "Rasmus Nordfoss",
+        "country": "Denmark",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Zyphon.webp"
+    },
+    {
+        "tag": "boltz",
+        "name": "Ricardo Prass",
+        "country": "Brazil",
+        "majors": 6,
+        "difficulty": 1,
+        "image": "/images/players/boltz.webp"
+    },
+    {
+        "tag": "autimatic",
+        "name": "Timothy Ta",
+        "country": "USA",
+        "majors": 5,
+        "difficulty": 1,
+        "image": "/images/players/autimatic.webp"
+    },
+    {
+        "tag": "Brehze",
+        "name": "Vincent Cayonte",
+        "country": "USA",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/Brehze.webp"
+    },
+    {
+        "tag": "CeRq",
+        "name": "Tsvetelin Dimitrov",
+        "country": "Bulgaria",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/CeRq.webp"
+    },
+    {
+        "tag": "neaLaN",
+        "name": "Sanzhar Iskhakov",
+        "country": "Kazakhstan",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/neaLaN.webp"
+    },
+    {
+        "tag": "TACO",
+        "name": "Epitacio de Melo",
+        "country": "Brazil",
+        "majors": 10,
+        "difficulty": 1,
+        "image": "/images/players/TACO.webp"
+    },
+    {
+        "tag": "buda",
+        "name": "Nicolás Kramer",
+        "country": "Argentina",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/buda.webp"
+    },
+    {
+        "tag": "kabal",
+        "name": "Bat-Enkh Batbayar",
+        "country": "Mongolia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/kabal.webp"
+    },
+    {
+        "tag": "JACKZ",
+        "name": "Audric Jug",
+        "country": "France",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/JACKZ.webp"
+    },
+    {
+        "tag": "buster",
+        "name": "Timur Tulepov",
+        "country": "Kazakhstan",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/buster.webp"
+    },
+    {
+        "tag": "misutaaa",
+        "name": "Kévin Rabier",
+        "country": "France",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/misutaaa.webp"
+    },
+    {
+        "tag": "shox",
+        "name": "Richard Papillon",
+        "country": "France",
+        "majors": 17,
+        "difficulty": 1,
+        "image": "/images/players/shox.webp"
+    },
+    {
+        "tag": "tiziaN",
+        "name": "Tizian Feldbusch",
+        "country": "Germany",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/tiziaN.webp"
+    },
+    {
+        "tag": "fnx",
+        "name": "Lincoln Lau",
+        "country": "Brazil",
+        "majors": 3,
+        "difficulty": 1,
+        "image": "/images/players/fnx.webp"
+    },
+    {
+        "tag": "Xyp9x",
+        "name": "Andreas Højsleth",
+        "country": "Denmark",
+        "majors": 17,
+        "difficulty": 1,
+        "image": "/images/players/Xyp9x.webp"
+    },
+    {
+        "tag": "Farlig",
+        "name": "Asger Jensen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Farlig.webp"
+    },
+    {
+        "tag": "Tuurtle",
+        "name": "Matheus Anhaia",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Tuurtle.webp"
+    },
+    {
+        "tag": "KENSI",
+        "name": "Aleksandr Gurkin",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/KENSI.webp"
+    },
+    {
+        "tag": "Norwi",
+        "name": "Evgeny Ermolin",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Norwi.webp"
+    },
+    {
+        "tag": "imoRR",
+        "name": "Ömer Karataş",
+        "country": "Türkiye",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/imoRR.webp"
+    },
+    {
+        "tag": "rox",
+        "name": "Martin Molina",
+        "country": "Argentina",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/rox.webp"
+    },
+    {
+        "tag": "Hatz",
+        "name": "Jordan Bajic",
+        "country": "Australia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Hatz.webp"
+    },
+    {
+        "tag": "Kyojin",
+        "name": "Jayson Nguyen Van",
+        "country": "France",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Kyojin.webp"
+    },
+    {
+        "tag": "amanek",
+        "name": "François Delaunay",
+        "country": "France",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/amanek.webp"
+    },
+    {
+        "tag": "Lucky",
+        "name": "Philip Ewald",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Lucky2.webp"
+    },
+    {
+        "tag": "Stewie2K",
+        "name": "Jake Yip",
+        "country": "USA",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/Stewie2K.webp"
+    },
+    {
+        "tag": "doto",
+        "name": "Joonas Forss",
+        "country": "Finland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/doto.webp"
+    },
+    {
+        "tag": "olofmeister",
+        "name": "Olof Kajbjer",
+        "country": "Sweden",
+        "majors": 16,
+        "difficulty": 1,
+        "image": "/images/players/olofmeister.webp"
+    },
+    {
+        "tag": "Lack1",
+        "name": "Viktor Boldyrev",
+        "country": "Kazakhstan",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Lack1.webp"
+    },
+    {
+        "tag": "El1an",
+        "name": "Aleksei Gusev",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/El1an.webp"
+    },
+    {
+        "tag": "MICHU",
+        "name": "Michał Müller",
+        "country": "Poland",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/MICHU.webp"
+    },
+    {
+        "tag": "oBo",
+        "name": "Owen Schlatter",
+        "country": "USA",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/oBo.webp"
+    },
+    {
+        "tag": "gade",
+        "name": "Nicklas Gade",
+        "country": "Denmark",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/gade.webp"
+    },
+    {
+        "tag": "alex",
+        "name": "Alejandro Masanet",
+        "country": "Spain",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/alex.webp"
+    },
+    {
+        "tag": "DeathZz",
+        "name": "Raúl Jordán Nieto",
+        "country": "Spain",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/DeathZz.webp"
+    },
+    {
+        "tag": "b4rtiN",
+        "name": "Bruno Câmara",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/b4rtiN.webp"
+    },
+    {
+        "tag": "PKL",
+        "name": "Vinicios Coelho",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/PKL.webp"
+    },
+    {
+        "tag": "malta",
+        "name": "Liam Schembri",
+        "country": "Australia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/malta.webp"
+    },
+    {
+        "tag": "SLOWLY",
+        "name": "Kelun Sun",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/SLOWLY.webp"
+    },
+    {
+        "tag": "DANK1NG",
+        "name": "Zhenghao Lv",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/DANK1NG.webp"
+    },
+    {
+        "tag": "jnt",
+        "name": "Jhonatan Silva",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/jnt.webp"
+    },
+    {
+        "tag": "pancc",
+        "name": "Fillipe Martins",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/pancc.webp"
+    },
+    {
+        "tag": "realz1n",
+        "name": "Antonio Oliveira",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/realz1n.webp"
+    },
+    {
+        "tag": "NBK-",
+        "name": "Nathan Schmitt",
+        "country": "France",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/NBK-.webp"
+    },
+    {
+        "tag": "RpK",
+        "name": "Cédric Guipouy",
+        "country": "France",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/RpK.webp"
+    },
+    {
+        "tag": "ALEX",
+        "name": "Alex McMeekin",
+        "country": "United Kingdom",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/ALEX2.webp"
+    },
+    {
+        "tag": "allu",
+        "name": "Aleksi Jalli",
+        "country": "Finland",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/allu.webp"
+    },
+    {
+        "tag": "Aerial",
+        "name": "Jani Jussila",
+        "country": "Finland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Aerial.webp"
+    },
+    {
+        "tag": "xseveN",
+        "name": "Sami Laasanen",
+        "country": "Finland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/xseveN.webp"
+    },
+    {
+        "tag": "sergej",
+        "name": "Jere Salo",
+        "country": "Finland",
+        "majors": 2,
+        "difficulty": 1,
+        "image": "/images/players/sergej.webp"
+    },
+    {
+        "tag": "tarik",
+        "name": "Tarik Celik",
+        "country": "USA",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/tarik.webp"
+    },
+    {
+        "tag": "Ethan",
+        "name": "Ethan Arnold",
+        "country": "USA",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/Ethan.webp"
+    },
+    {
+        "tag": "Zeus",
+        "name": "Danylo Teslenko",
+        "country": "Ukraine",
+        "majors": 15,
+        "difficulty": 1,
+        "image": "/images/players/Zeus.webp"
+    },
+    {
+        "tag": "flamie",
+        "name": "Egor Vasilyev",
+        "country": "Russia",
+        "majors": 12,
+        "difficulty": 1,
+        "image": "/images/players/flamie.webp"
+    },
+    {
+        "tag": "NEO",
+        "name": "Filip Kubski",
+        "country": "Poland",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/NEO.webp"
+    },
+    {
+        "tag": "GuardiaN",
+        "name": "Ladislav Kovács",
+        "country": "Slovakia",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/GuardiaN.webp"
+    },
+    {
+        "tag": "kennyS",
+        "name": "Kenny Schrub",
+        "country": "France",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/kennyS.webp"
+    },
+    {
+        "tag": "chrisJ",
+        "name": "Chris de Jong",
+        "country": "Netherlands",
+        "majors": 10,
+        "difficulty": 1,
+        "image": "/images/players/chrisJ.webp"
+    },
+    {
+        "tag": "aizy",
+        "name": "Philip Aistrup",
+        "country": "Denmark",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/aizy.webp"
+    },
+    {
+        "tag": "Kjaerbye",
+        "name": "Markus Kjærbye",
+        "country": "Denmark",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/Kjaerbye.webp"
+    },
+    {
+        "tag": "JUGi",
+        "name": "Jakob Hansen",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/JUGi.webp"
+    },
+    {
+        "tag": "f0rest",
+        "name": "Patrik Lindberg",
+        "country": "Sweden",
+        "majors": 12,
+        "difficulty": 1,
+        "image": "/images/players/f0rest.webp"
+    },
+    {
+        "tag": "GeT_RiGhT",
+        "name": "Christopher Alesund",
+        "country": "Sweden",
+        "majors": 12,
+        "difficulty": 1,
+        "image": "/images/players/GeT_RiGhT.webp"
+    },
+    {
+        "tag": "Lekr0",
+        "name": "Jonas Olofsson",
+        "country": "Sweden",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/Lekr0.webp"
+    },
+    {
+        "tag": "Golden",
+        "name": "Maikil Selim",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/Golden.webp"
+    },
+    {
+        "tag": "zews",
+        "name": "Wilton Prado",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/zews.webp"
+    },
+    {
+        "tag": "LUCAS1",
+        "name": "Lucas Teles",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/LUCAS1.webp"
+    },
+    {
+        "tag": "LETN1",
+        "name": "Nestor Tanić",
+        "country": "Serbia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/LETN1.webp"
+    },
+    {
+        "tag": "ottoNd",
+        "name": "Otto Sihvo",
+        "country": "Finland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ottoNd.webp"
+    },
+    {
+        "tag": "EspiranTo",
+        "name": "Rokas Milasauskas",
+        "country": "Lithuania",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/EspiranTo.webp"
+    },
+    {
+        "tag": "AZR",
+        "name": "Aaron Ward",
+        "country": "Australia",
+        "majors": 8,
+        "difficulty": 2,
+        "image": "/images/players/AZR.webp"
+    },
+    {
+        "tag": "Gratisfaction",
+        "name": "Sean Kaiwai",
+        "country": "New Zealand",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Gratisfaction.webp"
+    },
+    {
+        "tag": "kinqie",
+        "name": "Semyon Lisitsyn",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/kinqie.webp"
+    },
+    {
+        "tag": "svyat",
+        "name": "Svyatoslav Dovbakh",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/svyat.webp"
+    },
+    {
+        "tag": "speed4k",
+        "name": "Anton Titov",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/speed4k.webp"
+    },
+    {
+        "tag": "AdreN",
+        "name": "Dauren Kystaubayev",
+        "country": "Kazakhstan",
+        "majors": 12,
+        "difficulty": 1,
+        "image": "/images/players/AdreN.webp"
+    },
+    {
+        "tag": "SANJI",
+        "name": "Sanjar Kuliev",
+        "country": "Uzbekistan",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/SANJI.webp"
+    },
+    {
+        "tag": "ableJ",
+        "name": "Rinaldo Moda Junior",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/ableJ.webp"
+    },
+    {
+        "tag": "facecrack",
+        "name": "Dmitriy Alekseyev",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/facecrack.webp"
+    },
+    {
+        "tag": "almazer",
+        "name": "Almaz Asadullin",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/almazer.webp"
+    },
+    {
+        "tag": "xsepower",
+        "name": "Bogdan Chernikov",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/xsepower.webp"
+    },
+    {
+        "tag": "erkaSt",
+        "name": "Erdenetsogt Gantulga",
+        "country": "Mongolia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/erkaSt.webp"
+    },
+    {
+        "tag": "DickStacy",
+        "name": "Ollie Tierney",
+        "country": "Australia",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/DickStacy.webp"
+    },
+    {
+        "tag": "ShahZaM",
+        "name": "Shahzeb Khan",
+        "country": "USA",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/ShahZaM.webp"
+    },
+    {
+        "tag": "dephh",
+        "name": "Rory Jackson",
+        "country": "United Kingdom",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/dephh.webp"
+    },
+    {
+        "tag": "Rickeh",
+        "name": "Ricardo Mulholland",
+        "country": "Australia",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/Rickeh.webp"
+    },
+    {
+        "tag": "SicK",
+        "name": "Hunter Mims",
+        "country": "USA",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/SicK.webp"
+    },
+    {
+        "tag": "BnTeT",
+        "name": "Hansel Ferdinand",
+        "country": "Singapore",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/BnTeT.webp"
+    },
+    {
+        "tag": "Freeman",
+        "name": "WingHei Cheung",
+        "country": "Hong Kong",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Freeman.webp"
+    },
+    {
+        "tag": "kNgV-",
+        "name": "Vito Giuseppe",
+        "country": "Brazil",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/kNgV-.webp"
+    },
+    {
+        "tag": "xand",
+        "name": "Alexandre Zizi",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/xand.webp"
+    },
+    {
+        "tag": "destiny",
+        "name": "Lucas Bullo",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/destiny.webp"
+    },
+    {
+        "tag": "yel",
+        "name": "Gustavo Knittel",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/yel.webp"
+    },
+    {
+        "tag": "ANGE1",
+        "name": "Kyrylo Karasiow",
+        "country": "Ukraine",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/ANGE1.webp"
+    },
+    {
+        "tag": "oskar",
+        "name": "Tomáš Šťastný",
+        "country": "Czech Republic",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/oskar.webp"
+    },
+    {
+        "tag": "loWel",
+        "name": "Christian Garcia Antoran",
+        "country": "Spain",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/loWel.webp"
+    },
+    {
+        "tag": "ISSAA",
+        "name": "Issa Murad",
+        "country": "Jordan",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/ISSAA.webp"
+    },
+    {
+        "tag": "nukkye",
+        "name": "Žygimantas Chmieliauskas",
+        "country": "Lithuania",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/nukkye.webp"
+    },
+    {
+        "tag": "t0rick",
+        "name": "Maksim Zaikin",
+        "country": "Azerbaijan",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/t0rick.webp"
+    },
+    {
+        "tag": "Ramz1kBO$$",
+        "name": "Ramazan Bashizov",
+        "country": "Kazakhstan",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Ramz1kBO$$.webp"
+    },
+    {
+        "tag": "Edward",
+        "name": "Ioann Sukhariev",
+        "country": "Ukraine",
+        "majors": 13,
+        "difficulty": 1,
+        "image": "/images/players/Edward.webp"
+    },
+    {
+        "tag": "FugLy",
+        "name": "Jacob Medina",
+        "country": "USA",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/FugLy.webp"
+    },
+    {
+        "tag": "dennis",
+        "name": "Dennis Edman",
+        "country": "Sweden",
+        "majors": 10,
+        "difficulty": 1,
+        "image": "/images/players/dennis.webp"
+    },
+    {
+        "tag": "flusha",
+        "name": "Robin Rönnquist",
+        "country": "Sweden",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/flusha.webp"
+    },
+    {
+        "tag": "kioShiMa",
+        "name": "Fabien Fiey",
+        "country": "France",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/kioShiMa.webp"
+    },
+    {
+        "tag": "RUSH",
+        "name": "William Wierzba",
+        "country": "USA",
+        "majors": 5,
+        "difficulty": 1,
+        "image": "/images/players/RUSH.webp"
+    },
+    {
+        "tag": "Zellsis",
+        "name": "Jordan Montemurro",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/Zellsis.webp"
+    },
+    {
+        "tag": "gob b",
+        "name": "Fatih Dayik",
+        "country": "Germany",
+        "majors": 6,
+        "difficulty": 2,
+        "image": "/images/players/gob b.webp"
+    },
+    {
+        "tag": "nex",
+        "name": "Johannes Maget",
+        "country": "Germany",
+        "majors": 10,
+        "difficulty": 2,
+        "image": "/images/players/nex.webp"
+    },
+    {
+        "tag": "fitch",
+        "name": "Bektiyar Bahytov",
+        "country": "Kazakhstan",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/fitch.webp"
+    },
+    {
+        "tag": "KrizzeN",
+        "name": "Aidyn Turlybekov",
+        "country": "Kazakhstan",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/KrizzeN.webp"
+    },
+    {
+        "tag": "DeadFox",
+        "name": "Bence Böröcz",
+        "country": "Hungary",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/DeadFox.webp"
+    },
+    {
+        "tag": "WorldEdit",
+        "name": "Georgi Yaskin",
+        "country": "Russia",
+        "majors": 10,
+        "difficulty": 2,
+        "image": "/images/players/WorldEdit.webp"
+    },
+    {
+        "tag": "wayLander",
+        "name": "Jan Rahkonen",
+        "country": "Russia",
+        "majors": 6,
+        "difficulty": 3,
+        "image": "/images/players/wayLander.webp"
+    },
+    {
+        "tag": "Kvik",
+        "name": "Aurimas Kvakšys",
+        "country": "Lithuania",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Kvik.webp"
+    },
+    {
+        "tag": "advent",
+        "name": "Zhuo Liang",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/advent.webp"
+    },
+    {
+        "tag": "zhokiNg",
+        "name": "WeiJie Zhong",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/zhokiNg.webp"
+    },
+    {
+        "tag": "aumaN",
+        "name": "ZhiHong Liu",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/aumaN.webp"
+    },
+    {
+        "tag": "tonyblack",
+        "name": "Anton Kolesnikov",
+        "country": "Russia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/tonyblack.webp"
+    },
+    {
+        "tag": "jR",
+        "name": "Dmytro Chervak",
+        "country": "Ukraine",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/jR.webp"
+    },
+    {
+        "tag": "hutji",
+        "name": "Pavel Lashkov",
+        "country": "Russia",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/hutji.webp"
+    },
+    {
+        "tag": "crush",
+        "name": "Igor Shevchenko",
+        "country": "Ukraine",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/crush.webp"
+    },
+    {
+        "tag": "xccurate",
+        "name": "Kevin Susanto",
+        "country": "Singapore",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/xccurate.webp"
+    },
+    {
+        "tag": "Xizt",
+        "name": "Richard Landström",
+        "country": "Sweden",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/Xizt.webp"
+    },
+    {
+        "tag": "JW",
+        "name": "Jesper Wecksell",
+        "country": "Sweden",
+        "majors": 14,
+        "difficulty": 1,
+        "image": "/images/players/JW.webp"
+    },
+    {
+        "tag": "twist",
+        "name": "Simon Eliasson",
+        "country": "Sweden",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/twist.webp"
+    },
+    {
+        "tag": "DavCost",
+        "name": "Vadim Vasilyev",
+        "country": "Russia",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/DavCost.webp"
+    },
+    {
+        "tag": "Dimaoneshot",
+        "name": "Dmitriy Bandurka",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Dimaoneshot.webp"
+    },
+    {
+        "tag": "S0tF1k",
+        "name": "Dmitry Forostyanko",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/S0tF1k.webp"
+    },
+    {
+        "tag": "COLDYY1",
+        "name": "Pavlo Veklenko",
+        "country": "Ukraine",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/COLDYY1.webp"
+    },
+    {
+        "tag": "sterling",
+        "name": "Euan Moore",
+        "country": "New Zealand",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/sterling.webp"
+    },
+    {
+        "tag": "smooya",
+        "name": "Owen Butterfield",
+        "country": "United Kingdom",
+        "majors": 1,
+        "difficulty": 1,
+        "image": "/images/players/smooya.webp"
+    },
+    {
+        "tag": "draken",
+        "name": "William Sundin",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/draken.webp"
+    },
+    {
+        "tag": "captainMo",
+        "name": "Ke Liu",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/captainMo.webp"
+    },
+    {
+        "tag": "DD",
+        "name": "Hui Wu",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/DD.webp"
+    },
+    {
+        "tag": "Ex6TenZ",
+        "name": "Kévin Droolans",
+        "country": "Belgium",
+        "majors": 8,
+        "difficulty": 1,
+        "image": "/images/players/Ex6TenZ.webp"
+    },
+    {
+        "tag": "SmithZz",
+        "name": "Edouard Dubourdeaux",
+        "country": "France",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/SmithZz.webp"
+    },
+    {
+        "tag": "Skadoodle",
+        "name": "Tyler Latham",
+        "country": "USA",
+        "majors": 10,
+        "difficulty": 1,
+        "image": "/images/players/Skadoodle.webp"
+    },
+    {
+        "tag": "yay",
+        "name": "Jaccob Whiteaker",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/yay.webp"
+    },
+    {
+        "tag": "ANDROID",
+        "name": "Bradley Fodor",
+        "country": "Canada",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ANDROID.webp"
+    },
+    {
+        "tag": "balblna",
+        "name": "Gregory Oleinick",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/balblna.webp"
+    },
+    {
+        "tag": "jmqa",
+        "name": "Savelii Bragin",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/jmqa.webp"
+    },
+    {
+        "tag": "MSL",
+        "name": "Mathias Lauridsen",
+        "country": "Denmark",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/MSL.webp"
+    },
+    {
+        "tag": "bondik",
+        "name": "Vladyslav Nechyporchuk",
+        "country": "Ukraine",
+        "majors": 7,
+        "difficulty": 2,
+        "image": "/images/players/bondik.webp"
+    },
+    {
+        "tag": "USTILO",
+        "name": "Karlo Pivac",
+        "country": "Australia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/USTILO.webp"
+    },
+    {
+        "tag": "Nifty",
+        "name": "Noah Francis",
+        "country": "USA",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/Nifty.webp"
+    },
+    {
+        "tag": "cajunb",
+        "name": "René Borg",
+        "country": "Denmark",
+        "majors": 13,
+        "difficulty": 1,
+        "image": "/images/players/cajunb.webp"
+    },
+    {
+        "tag": "Dosia",
+        "name": "Mihail Stolyarov",
+        "country": "Russia",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/Dosia.webp"
+    },
+    {
+        "tag": "mou",
+        "name": "Rustem Telepov",
+        "country": "Kazakhstan",
+        "majors": 6,
+        "difficulty": 1,
+        "image": "/images/players/mou.webp"
+    },
+    {
+        "tag": "pashaBiceps",
+        "name": "Jarosław Jarząbkowski",
+        "country": "Poland",
+        "majors": 13,
+        "difficulty": 1,
+        "image": "/images/players/pashaBiceps.webp"
+    },
+    {
+        "tag": "byali",
+        "name": "Paweł Bieliński",
+        "country": "Poland",
+        "majors": 13,
+        "difficulty": 1,
+        "image": "/images/players/byali.webp"
+    },
+    {
+        "tag": "snatchie",
+        "name": "Michał Rudzki",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/snatchie.webp"
+    },
+    {
+        "tag": "Hiko",
+        "name": "Spencer Martin",
+        "country": "USA",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/hiko.webp"
+    },
+    {
+        "tag": "vice",
+        "name": "Daniel Kim",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/vice.webp"
+    },
+    {
+        "tag": "hardstyle",
+        "name": "Canpolat Yıldıran",
+        "country": "Türkiye",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/hardstyle.webp"
+    },
+    {
+        "tag": "paz",
+        "name": "Ahmet Karahoca",
+        "country": "Türkiye",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/paz.webp"
+    },
+    {
+        "tag": "suNny",
+        "name": "Miikka Kemppi",
+        "country": "Finland",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/suNny.webp"
+    },
+    {
+        "tag": "TaZ",
+        "name": "Wiktor Wojtas",
+        "country": "Poland",
+        "majors": 12,
+        "difficulty": 1,
+        "image": "/images/players/TaZ.webp"
+    },
+    {
+        "tag": "jdm64",
+        "name": "Josh Marzano",
+        "country": "USA",
+        "majors": 6,
+        "difficulty": 1,
+        "image": "/images/players/jdm64.webp"
+    },
+    {
+        "tag": "ngiN",
+        "name": "Engin Kor",
+        "country": "Türkiye",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ngiN.webp"
+    },
+    {
+        "tag": "keshandr",
+        "name": "Sergey Nikishin",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/keshandr.jpg"
+    },
+    {
+        "tag": "LEGIJA",
+        "name": "Nikola Ninić",
+        "country": "Germany",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/LEGIJA.webp"
+    },
+    {
+        "tag": "keev",
+        "name": "Kevin Bartholomäus",
+        "country": "Germany",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/keev.jpg"
+    },
+    {
+        "tag": "waterfaLLZ",
+        "name": "Nikita Matveyev",
+        "country": "Russia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/waterfaLLZ.webp"
+    },
+    {
+        "tag": "seang@res",
+        "name": "Sean Gares",
+        "country": "USA",
+        "majors": 8,
+        "difficulty": 2,
+        "image": "/images/players/seang@res.jpg"
+    },
+    {
+        "tag": "devoduvek",
+        "name": "David Dobrosavljevic",
+        "country": "France",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/devoduvek.webp"
+    },
+    {
+        "tag": "SIXER",
+        "name": "Christophe Xia",
+        "country": "France",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/SIXER.webp"
+    },
+    {
+        "tag": "ScreaM",
+        "name": "Adil Benrlitom",
+        "country": "Belgium",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/ScreaM.webp"
+    },
+    {
+        "tag": "Happy",
+        "name": "Vincent Schopenhauer",
+        "country": "France",
+        "majors": 11,
+        "difficulty": 1,
+        "image": "/images/players/Happy.webp"
+    },
+    {
+        "tag": "xms",
+        "name": "Alexandre Forté",
+        "country": "France",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/xms.webp"
+    },
+    {
+        "tag": "zehN",
+        "name": "Jesse Linjala",
+        "country": "Finland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/zehN.webp"
+    },
+    {
+        "tag": "innocent",
+        "name": "Paweł Mocek",
+        "country": "Poland",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/innocent.webp"
+    },
+    {
+        "tag": "kRYSTAL",
+        "name": "Kevin Amend",
+        "country": "Germany",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/kRYSTAL.webp"
+    },
+    {
+        "tag": "Spiidi",
+        "name": "Timo Richter",
+        "country": "Germany",
+        "majors": 7,
+        "difficulty": 2,
+        "image": "/images/players/Spiidi.webp"
+    },
+    {
+        "tag": "denis",
+        "name": "Denis Howel",
+        "country": "Germany",
+        "majors": 9,
+        "difficulty": 2,
+        "image": "/images/players/denis.webp"
+    },
+    {
+        "tag": "dimasick",
+        "name": "Dmitry Matvienko",
+        "country": "Kazakhstan",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/dimasick.webp"
+    },
+    {
+        "tag": "Karsa",
+        "name": "QiFang Su",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Karsa.webp"
+    },
+    {
+        "tag": "LOVEYY",
+        "name": "KunHua Bai",
+        "country": "China",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/LOVEYY.webp"
+    },
+    {
+        "tag": "markeloff",
+        "name": "Yegor Markelov",
+        "country": "Ukraine",
+        "majors": 12,
+        "difficulty": 1,
+        "image": "/images/players/markeloff.jpg"
+    },
+    {
+        "tag": "B1ad3",
+        "name": "Andrey Gorodenskiy",
+        "country": "Ukraine",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/B1ad3.jpg"
+    },
+    {
+        "tag": "seized",
+        "name": "Denis Kostin",
+        "country": "Russia",
+        "majors": 12,
+        "difficulty": 1,
+        "image": "/images/players/seized.webp"
+    },
+    {
+        "tag": "shroud",
+        "name": "Mike Grzesiek",
+        "country": "Canada",
+        "majors": 7,
+        "difficulty": 1,
+        "image": "/images/players/shroud.jpg"
+    },
+    {
+        "tag": "n0thing",
+        "name": "Jordan Gilbert",
+        "country": "USA",
+        "majors": 10,
+        "difficulty": 1,
+        "image": "/images/players/n0thing.webp"
+    },
+    {
+        "tag": "steel",
+        "name": "Lucas Lopes",
+        "country": "Brazil",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/steel.webp"
+    },
+    {
+        "tag": "HS",
+        "name": "Kevin Tarn",
+        "country": "Estonia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/HS.webp"
+    },
+    {
+        "tag": "mixwell",
+        "name": "Oscar Cañellas",
+        "country": "Spain",
+        "majors": 2,
+        "difficulty": 2,
+        "image": "/images/players/mixwell.webp"
+    },
+    {
+        "tag": "fox",
+        "name": "Ricardo Pacheco",
+        "country": "Portugal",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/fox.webp"
+    },
+    {
+        "tag": "RUBINO",
+        "name": "Ruben Villarroel",
+        "country": "Norway",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/RUBINO.webp"
+    },
+    {
+        "tag": "pronax",
+        "name": "Markus Wallsten",
+        "country": "Sweden",
+        "majors": 8,
+        "difficulty": 1,
+        "image": "/images/players/pronax.jpg"
+    },
+    {
+        "tag": "znajder",
+        "name": "Andreas Lindberg",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 1,
+        "image": "/images/players/znajder.jpg"
+    },
+    {
+        "tag": "Pimp",
+        "name": "Jacob Winneche",
+        "country": "Denmark",
+        "majors": 6,
+        "difficulty": 1,
+        "image": "/images/players/Pimp.webp"
+    },
+    {
+        "tag": "Zero",
+        "name": "Patrik Žúdel",
+        "country": "Slovakia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Zero2.webp"
+    },
+    {
+        "tag": "disco doplan",
+        "name": "Joakim Gidetun",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/disco doplan.webp"
+    },
+    {
+        "tag": "friberg",
+        "name": "Adam Friberg",
+        "country": "Sweden",
+        "majors": 9,
+        "difficulty": 1,
+        "image": "/images/players/friberg.webp"
+    },
+    {
+        "tag": "pyth",
+        "name": "Jacob Mourujärvi",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/pyth.jpg"
+    },
+    {
+        "tag": "DEVIL",
+        "name": "Timothée Démolon",
+        "country": "France",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/DEVIL.jpg"
+    },
+    {
+        "tag": "zonic",
+        "name": "Danny Sørensen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/zonic.webp"
+    },
+    {
+        "tag": "TENZKI",
+        "name": "Jesper Plougmann",
+        "country": "Denmark",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/TENZKI.webp"
+    },
+    {
+        "tag": "spaze",
+        "name": "Ivan Obrezhan",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/spaze.jpg"
+    },
+    {
+        "tag": "Shara",
+        "name": "Oleksandr Hordieyev",
+        "country": "Ukraine",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Shara.webp"
+    },
+    {
+        "tag": "pita",
+        "name": "Faruk Pita",
+        "country": "Bosnia and Herzegovina",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/pita.webp"
+    },
+    {
+        "tag": "hazed",
+        "name": "James Cobb",
+        "country": "USA",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/hazed.jpg"
+    },
+    {
+        "tag": "reltuC",
+        "name": "Stephen Cutler",
+        "country": "USA",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/reltuC.webp"
+    },
+    {
+        "tag": "koosta",
+        "name": "Kenneth Suen",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/koosta.webp"
+    },
+    {
+        "tag": "THREAT",
+        "name": "Björn Pers",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/THREAT.webp"
+    },
+    {
+        "tag": "Maikelele",
+        "name": "Mikail Bill",
+        "country": "Sweden",
+        "majors": 5,
+        "difficulty": 1,
+        "image": "/images/players/Maikelele.webp"
+    },
+    {
+        "tag": "freakazoid",
+        "name": "Ryan Abadir",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/freakazoid.webp"
+    },
+    {
+        "tag": "adreN",
+        "name": "Eric Hoag",
+        "country": "USA",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/adreN2.webp"
+    },
+    {
+        "tag": "arya",
+        "name": "Arya Hekmat",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/arya.jpg"
+    },
+    {
+        "tag": "abE",
+        "name": "Abraham Fazli",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/abE.jpg"
+    },
+    {
+        "tag": "DAVEY",
+        "name": "David Stafford",
+        "country": "Canada",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/DAVEY.jpg"
+    },
+    {
+        "tag": "jasonR",
+        "name": "Jason Ruchelski",
+        "country": "Canada",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/jasonR.jpg"
+    },
+    {
+        "tag": "Professor_Chaos",
+        "name": "Andrew Heintz",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Professor_Chaos.jpg"
+    },
+    {
+        "tag": "Hyper",
+        "name": "Bartosz Wolny",
+        "country": "Poland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Hyper.webp"
+    },
+    {
+        "tag": "peet",
+        "name": "Piotr Ćwikliński",
+        "country": "Poland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/peet.jpg"
+    },
+    {
+        "tag": "Furlan",
+        "name": "Damian Kislowski",
+        "country": "Poland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Furlan.webp"
+    },
+    {
+        "tag": "GruBy",
+        "name": "Dominik Swiderski",
+        "country": "Poland",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/GruBy.webp"
+    },
+    {
+        "tag": "FNS",
+        "name": "Pujan Mehta",
+        "country": "Canada",
+        "majors": 3,
+        "difficulty": 2,
+        "image": "/images/players/FNS.webp"
+    },
+    {
+        "tag": "yam",
+        "name": "Yaman Ergenekon",
+        "country": "Australia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/yam.webp"
+    },
+    {
+        "tag": "Havoc",
+        "name": "Luke Paton",
+        "country": "Australia",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/Havoc.jpg"
+    },
+    {
+        "tag": "SPUNJ",
+        "name": "Chad Burchill",
+        "country": "Australia",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/SPUNJ.webp"
+    },
+    {
+        "tag": "SnypeR",
+        "name": "Iain Turner",
+        "country": "Australia",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/SnypeR.jpg"
+    },
+    {
+        "tag": "emagine",
+        "name": "Chris Rowlands",
+        "country": "Australia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/emagine.jpg"
+    },
+    {
+        "tag": "James",
+        "name": "James Quinn",
+        "country": "Australia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/James.jpg"
+    },
+    {
+        "tag": "Maniac",
+        "name": "Mathieu Quiquerez",
+        "country": "Switzerland",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/Maniac.jpg"
+    },
+    {
+        "tag": "zEVES",
+        "name": "Morten Vollan Christensen",
+        "country": "Norway",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/zEVES.webp"
+    },
+    {
+        "tag": "Polly",
+        "name": "Pål Kammen",
+        "country": "Norway",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Polly.webp"
+    },
+    {
+        "tag": "ptr",
+        "name": "Peter Gurney",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ptr.webp"
+    },
+    {
+        "tag": "starix",
+        "name": "Sergey Ischuk",
+        "country": "Ukraine",
+        "majors": 5,
+        "difficulty": 1,
+        "image": "/images/players/starix.webp"
+    },
+    {
+        "tag": "topguN",
+        "name": "Azad Orami",
+        "country": "Australia",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/topguN.jpg"
+    },
+    {
+        "tag": "zqkS",
+        "name": "Caio Fonseca",
+        "country": "Brazil",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/zqkS.webp"
+    },
+    {
+        "tag": "kUcheR",
+        "name": "Emil Akhundov",
+        "country": "Russia",
+        "majors": 5,
+        "difficulty": 3,
+        "image": "/images/players/kUcheR.webp"
+    },
+    {
+        "tag": "Troubley",
+        "name": "Tobias Tabbert",
+        "country": "Germany",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/player_silhouette.webp"
+    },
+    {
+        "tag": "SEMPHIS",
+        "name": "Kory Friesen",
+        "country": "Canada",
+        "majors": 5,
+        "difficulty": 2,
+        "image": "/images/players/SEMPHIS.webp"
+    },
+    {
+        "tag": "natu",
+        "name": "Joona Leppänen",
+        "country": "Finland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/natu.jpg"
+    },
+    {
+        "tag": "KHRN",
+        "name": "Jesse Grandell",
+        "country": "Finland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/KHRN.webp"
+    },
+    {
+        "tag": "disturbed",
+        "name": "Taneli Veikkola",
+        "country": "Finland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/disturbed.webp"
+    },
+    {
+        "tag": "stonde",
+        "name": "Tom Glad",
+        "country": "Finland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/stonde.jpg"
+    },
+    {
+        "tag": "xartE",
+        "name": "Mikko Välimaa",
+        "country": "Finland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/xartE.webp"
+    },
+    {
+        "tag": "swag",
+        "name": "Braxton Pierce",
+        "country": "USA",
+        "majors": 4,
+        "difficulty": 1,
+        "image": "/images/players/swag.webp"
+    },
+    {
+        "tag": "AZK",
+        "name": "Keven Lariviere",
+        "country": "Canada",
+        "majors": 4,
+        "difficulty": 3,
+        "image": "/images/players/AZK.jpg"
+    },
+    {
+        "tag": "desi",
+        "name": "Derek Branchen",
+        "country": "USA",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/desi.jpg"
+    },
+    {
+        "tag": "r0bs3n",
+        "name": "Robin Stephan",
+        "country": "Germany",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/r0bs3n.jpg"
+    },
+    {
+        "tag": "fel1x",
+        "name": "Felix Zech",
+        "country": "Germany",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/fel1x.jpg"
+    },
+    {
+        "tag": "SZPERO",
+        "name": "Grzegorz Dziamałek",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/SZPERO.webp"
+    },
+    {
+        "tag": "MINISE",
+        "name": "Jacek Jeziak",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/MINISE.webp"
+    },
+    {
+        "tag": "mouz",
+        "name": "Mikołaj Karolewski",
+        "country": "Poland",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/mouz.webp"
+    },
+    {
+        "tag": "FeTiSh",
+        "name": "Henrik Christensen",
+        "country": "Denmark",
+        "majors": 4,
+        "difficulty": 2,
+        "image": "/images/players/FeTiSh.jpg"
+    },
+    {
+        "tag": "Friis",
+        "name": "Michael Jørgensen",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Friis.jpg"
+    },
+    {
+        "tag": "smF",
+        "name": "Danni Dyg",
+        "country": "Denmark",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/smF.webp"
+    },
+    {
+        "tag": "HUNDEN",
+        "name": "Nicolai Petersen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/HUNDEN.webp"
+    },
+    {
+        "tag": "AcilioN",
+        "name": "Asger Larsen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/AcilioN.webp"
+    },
+    {
+        "tag": "zende",
+        "name": "Erik Sundeqvist",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/zende.jpg"
+    },
+    {
+        "tag": "berg",
+        "name": "André Kjellberg",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/berg.jpg"
+    },
+    {
+        "tag": "dumz",
+        "name": "Miran Matković",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/dumz.jpg"
+    },
+    {
+        "tag": "BENDJI",
+        "name": "Benjamin Söderena",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/BENDJI.jpg"
+    },
+    {
+        "tag": "cent",
+        "name": "Andreas Hadjipaschali",
+        "country": "Republic of South Africa",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/cent.jpg"
+    },
+    {
+        "tag": "blackpoisoN",
+        "name": "Roberto Dall'Occo",
+        "country": "Republic of South Africa",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/blackpoisoN.jpg"
+    },
+    {
+        "tag": "Detrony",
+        "name": "Dimitri Hadjipaschali",
+        "country": "Republic of South Africa",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Detrony.jpg"
+    },
+    {
+        "tag": "deviaNt",
+        "name": "Richard Groves",
+        "country": "Republic of South Africa",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/deviaNt.jpg"
+    },
+    {
+        "tag": "racno",
+        "name": "Dane Friedman",
+        "country": "Republic of South Africa",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/player_silhouette.webp"
+    },
+    {
+        "tag": "strux1",
+        "name": "Hendrik Goetzendorff",
+        "country": "Germany",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/player_silhouette.webp"
+    },
+    {
+        "tag": "stavros",
+        "name": "Dimitrios Smoilis",
+        "country": "Germany",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/stavros.jpg"
+    },
+    {
+        "tag": "alexRr",
+        "name": "Alexander Frisch",
+        "country": "Germany",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/alexRr.webp"
+    },
+    {
+        "tag": "RiX",
+        "name": "Aakash More",
+        "country": "India", 
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/RiX.jpg"
+    },
+    {
+        "tag": "RiTz",
+        "name": "Ritesh Shah",
+        "country": "India",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/RiTz.jpg"
+    },
+    {
+        "tag": "astaRR",
+        "name": "Ayush Deora",
+        "country": "India",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/astaRR.jpg"
+    },
+    {
+        "tag": "Ace",
+        "name": "Tejas Sawant",
+        "country": "India",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Ace.webp"
+    },
+    {
+        "tag": "MithilF",
+        "name": "Mithil Sawant",
+        "country": "India",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/MithilF.jpg"
+    },
+    {
+        "tag": "Uzzziii",
+        "name": "Kevin Vernel",
+        "country": "France",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/Uzzziii.jpg"
+    },
+    {
+        "tag": "KQLY",
+        "name": "Hovik Tovmassian",
+        "country": "France",
+        "majors": 3,
+        "difficulty": 1,
+        "image": "/images/players/KQLY.jpg"
+    },
+    {
+        "tag": "DaZeD",
+        "name": "Sam Marine",
+        "country": "USA",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/DaZeD.jpg"
+    },
+    {
+        "tag": "Fifflaren",
+        "name": "Robin Johansson",
+        "country": "Sweden",
+        "majors": 3,
+        "difficulty": 1,
+        "image": "/images/players/Fifflaren.jpg"
+    },
+    {
+        "tag": "GMX",
+        "name": "Robin Stahmer",
+        "country": "France",
+        "majors": 3,
+        "difficulty": 3,
+        "image": "/images/players/player_silhouette.webp"
+    },
+    {
+        "tag": "Sf",
+        "name": "Gordon Giry",
+        "country": "France",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/player_silhouette.webp"
+    },
+    {
+        "tag": "fxy0",
+        "name": "Joey Schlosser",
+        "country": "France",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/fxy0.jpg"
+    },
+    {
+        "tag": "prb",
+        "name": "Preben Gammelsæter",
+        "country": "Norway",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/player_silhouette.webp"
+    },
+    {
+        "tag": "Skurk",
+        "name": "Bjoern Maaren",
+        "country": "Norway", 
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/Skurk.jpg"
+    },
+    {
+        "tag": "Nico",
+        "name": "Nicolaj Jensen",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/Nico.jpg"
+    },
+    {
+        "tag": "ub1que",
+        "name": "Aleksei Polivanov",
+        "country": "Russia",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ub1que.webp"
+    },
+    {
+        "tag": "Devilwalk",
+        "name": "Jonatan Lundberg",
+        "country": "Sweden",
+        "majors": 2,
+        "difficulty": 1,
+        "image": "/images/players/Devilwalk.webp"
+    },
+    {
+        "tag": "cype",
+        "name": "Isak Rydman",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/cype.jpg"
+    },
+    {
+        "tag": "LOMME",
+        "name": "Frederik Nielsen",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/LOMME.webp"
+    },
+    {
+        "tag": "EXR",
+        "name": "Nikolaj Therkildsen",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/EXR.jpg"
+    },
+    {
+        "tag": "anger",
+        "name": "Todd Williams",
+        "country": "USA",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/anger.jpg"
+    },
+    {
+        "tag": "raalz",
+        "name": "Rasmus Steensborg",
+        "country": "Denmark",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/raalz.webp"
+    },
+    {
+        "tag": "HaRts",
+        "name": "Michael Zanatta",
+        "country": "France",
+        "majors": 2,
+        "difficulty": 3,
+        "image": "/images/players/HaRts.jpg"
+    },
+    {
+        "tag": "COLON",
+        "name": "Morten Johansen",
+        "country": "Denmark",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/COLON.jpg"
+    },
+    {
+        "tag": "ultra",
+        "name": "Mikael Andersen",
+        "country": "Norway",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/ultra.jpg"
+    },
+    {
+        "tag": "centeks",
+        "name": "Stian Ledal",
+        "country": "Norway",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/centeks.jpg"
+    },
+    {
+        "tag": "robiin",
+        "name": "Robin Sjögren",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/robiin.webp"
+    },
+    {
+        "tag": "MODDII",
+        "name": "Andreas Fridh",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 2,
+        "image": "/images/players/MODDII.webp"
+    },
+    {
+        "tag": "xelos",
+        "name": "Jerry Råberg",
+        "country": "Sweden",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/xelos.webp"
+    },
+    {
+        "tag": "ioRek",
+        "name": "Jeremy Vuillermet",
+        "country": "France",
+        "majors": 1,
+        "difficulty": 3,
+        "image": "/images/players/player_silhouette.webp"
+    },
+    {
+        "tag": "",
+        "name": "",
+        "country": "",
+        "majors": 0,
+        "difficulty": 4,
+        "image": "/images/players/.webp"
+    },
+    {
+        "tag": "",
+        "name": "",
+        "country": "",
+        "majors": 0,
+        "difficulty": 4,
+        "image": "/images/players/.webp"
+    },
+    {
+        "tag": "",
+        "name": "",
+        "country": "",
+        "majors": 0,
+        "difficulty": 4,
+        "image": "/images/players/.webp"
     }
 ]

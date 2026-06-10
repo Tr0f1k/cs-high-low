@@ -3,36 +3,66 @@
 {% block title %}CS Major Higher or Lower{% endblock %}
 
 {% block body %}
-    <div class="game-container">
+<div class="game-container">
 
-        <h1>CS Major Higher or Lower</h1>
+    <h1>CS Major Higher or Lower</h1>
+    <h2>Guess Who Attended More Majors!</h2>
+
+    <div class="difficulty-selector" id="difficultySelector">
+        <button class="difficulty-btn" data-difficulty="1">
+            Easy
+        </button>
+
+        <button class="difficulty-btn" data-difficulty="2">
+            Normal
+        </button>
+
+        <button class="difficulty-btn" data-difficulty="3">
+            Hard
+        </button>
+    </div>
+
+    <div class="game-area" id="gameArea" hidden>
 
         <div class="score-container">
             Score:
             <span id="score">0</span>
         </div>
 
-        <div class="cards">
+        <div id="cardsArea">
+            <div class="cards">
 
-            <button class="player-card" id="playerA">
-                Loading...
-            </button>
+                <button class="player-card" id="playerA">
+                    Loading...
+                </button>
 
-            <div class="versus">
-                VS
+                <div class="versus">
+                    VS
+                </div>
+
+                <button class="player-card" id="playerB">
+                    Loading...
+                </button>
+
             </div>
 
-            <button class="player-card" id="playerB">
-                Loading...
-            </button>
-
+        <div id="result" class="result"></div>
         </div>
 
-        <div id="result" class="result"></div>
+    <div id="gameOverArea" class="game-over-area" hidden>
+        <h2>Game Over</h2>
+        <p>Final Score: <span id="finalScore">0</span></p>
 
-        <button id="nextBtn" class="next-button" hidden>
-            Next Round
-        </button>
+    <button id="playAgainBtn" class="next-button">
+        Play Again
+    </button>
+
+    <button id="chooseDifficultyBtn" class="next-button">
+        Choose Difficulty
+    </button>
+    </div>
 
     </div>
+
+</div>
 {% endblock %}
