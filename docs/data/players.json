@@ -317,7 +317,7 @@
         "country": "Brazil",
         "majors": 3,
         "difficulty": 3,
-        "image": "./images/players/.webp"
+        "image": "./images/players/saadzin.webp"
     },
     {
         "tag": "bLitz",
@@ -3653,7 +3653,7 @@
         "country": "Kazakhstan",
         "majors": 2,
         "difficulty": 3,
-        "image": "./images/players/fitch.webp"
+        "image": "./images/players/fitch.png"
     },
     {
         "tag": "KrizzeN",
