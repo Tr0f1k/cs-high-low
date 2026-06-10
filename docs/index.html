@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS Major Higher or Lower</title>
+    <link rel="stylesheet" href="./app.css">
+</head>
+<body>
+<div class="game-container">
+    <h1>CS Major Higher or Lower</h1>
+
+    <div class="difficulty-selector" id="difficultySelector">
+        <button class="difficulty-btn" data-difficulty="1">Easy</button>
+        <button class="difficulty-btn" data-difficulty="2">Normal</button>
+        <button class="difficulty-btn" data-difficulty="3">Hard</button>
+    </div>
+
+    <div class="game-area" id="gameArea" hidden>
+        <div class="score-container">
+            Score: <span id="score">0</span>
+        </div>
+
+        <div id="cardsArea">
+            <div class="cards">
+                <button class="player-card" id="playerA">Loading...</button>
+                <div class="versus">VS</div>
+                <button class="player-card" id="playerB">Loading...</button>
+            </div>
+
+            <div id="result" class="result"></div>
+        </div>
+
+        <div id="gameOverArea" class="game-over-area" hidden>
+            <h2>Game Over</h2>
+            <p>Final Score: <span id="finalScore">0</span></p>
+
+            <button id="playAgainBtn" class="next-button">Play Again</button>
+            <button id="chooseDifficultyBtn" class="next-button">Choose Difficulty</button>
+        </div>
+    </div>
+</div>
+
+<script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,238 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.game-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.score-container {
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.player-card {
+    width: 320px;
+    height: 420px;
+
+    background: #1f1f1f;
+    border: 2px solid #444;
+    border-radius: 16px;
+
+    color: white;
+
+    cursor: pointer;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    transition: 0.2s;
+}
+
+.player-card:hover {
+    border-color: white;
+    transform: scale(1.02);
+}
+
+.player-image {
+    width: 180px;
+    height: 180px;
+
+    object-fit: cover;
+
+    border-radius: 50%;
+
+    margin-bottom: 20px;
+}
+
+.player-card strong {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.player-card span {
+    color: #aaa;
+    font-size: 18px;
+}
+
+.versus {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.result {
+    margin-top: 30px;
+    min-height: 40px;
+    font-size: 24px;
+}
+
+.next-button {
+    margin-top: 20px;
+
+    padding: 12px 24px;
+
+    border: none;
+    border-radius: 8px;
+
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.player-details {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.player-details span {
+    color: #aaa;
+    font-size: 18px;
+}
+
+.major-count {
+    margin-top: 16px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.game-area[hidden] {
+    display: none;
+}
+
+.difficulty-selector {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-top: 30px;
+}
+
+.difficulty-btn {
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    background: #1f1f1f;
+    color: white;
+    cursor: pointer;
+}
+
+.difficulty-btn:hover {
+    border-color: white;
+}
+
+.difficulty-btn.active {
+    border-color: white;
+    font-weight: bold;
+}
+
+.game-over-area {
+    margin-top: 24px;
+}
+
+.game-over-area h2 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.game-over-area p {
+    font-size: 24px;
+}
+
+[hidden] {
+    display: none !important;
+}
+
+@media (max-width: 700px) {
+    .game-container {
+        padding: 16px 12px;
+    }
+
+    h1 {
+        font-size: 26px;
+        margin-bottom: 16px;
+    }
+
+    .score-container {
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
+
+    .cards {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .player-card {
+        width: 100%;
+        max-width: 360px;
+        height: 260px;
+        padding: 16px;
+    }
+
+    .player-image {
+        width: 110px;
+        height: 110px;
+        margin-bottom: 10px;
+    }
+
+    .player-card strong {
+        font-size: 28px;
+        margin-bottom: 6px;
+    }
+
+    .player-card span {
+        font-size: 15px;
+    }
+
+    .major-count {
+        margin-top: 10px;
+        font-size: 22px;
+    }
+
+    .versus {
+        font-size: 28px;
+        margin: 0;
+    }
+
+    .result {
+        margin-top: 16px;
+        font-size: 18px;
+        min-height: 50px;
+    }
+
+    .next-button {
+        width: 100%;
+        max-width: 360px;
+        padding: 14px 20px;
+        font-size: 18px;
+    }
+
+    .difficulty-selector {
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .difficulty-btn {
+        width: 100%;
+        max-width: 320px;
+        padding: 16px 24px;
+        font-size: 20px;
+    }
+}
