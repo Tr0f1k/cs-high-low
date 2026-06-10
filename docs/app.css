@@ -164,6 +164,10 @@ body {
     background-color: rgba(213, 0, 0, 0.25);
 }
 
+.hidden-major-count {
+    visibility: hidden;
+}
+
 [hidden] {
     display: none !important;
 }

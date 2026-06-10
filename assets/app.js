@@ -119,7 +119,9 @@ function renderPlayer(button, player, showMajors = false) {
         <strong>${player.tag}</strong>
         <span>${name}</span>
         <span>${country}</span>
-        ${showMajors ? `<div class="major-count">${player.majors} Majors</div>` : ''}
+        <div class="major-count ${showMajors ? '' : 'hidden-major-count'}">
+            ${player.majors} Majors
+        </div>
     `;
 }
 
